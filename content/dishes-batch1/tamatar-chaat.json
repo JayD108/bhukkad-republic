@@ -1,0 +1,43 @@
+{
+  "slug": "tamatar-chaat",
+  "name": "Tamatar chaat",
+  "local_names": [
+    {
+      "text": "टमाटर चाट",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Varanasi's hot chaat of mashed tomato and potato cooked with spices and ghee, topped with sev and sugar syrup.",
+  "ingredients": [
+    "tomato",
+    "potato",
+    "ghee",
+    "spices",
+    "sev"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

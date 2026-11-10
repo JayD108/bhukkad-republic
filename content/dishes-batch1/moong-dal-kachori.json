@@ -1,0 +1,42 @@
+{
+  "slug": "moong-dal-kachori",
+  "name": "Moong dal kachori",
+  "local_names": [
+    {
+      "text": "मूंग दाल कचौरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Crisp round kachori filled with spiced coarse moong dal, eaten with tamarind chutney.",
+  "ingredients": [
+    "moong dal",
+    "refined flour",
+    "spices",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

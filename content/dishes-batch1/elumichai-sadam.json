@@ -1,0 +1,42 @@
+{
+  "slug": "elumichai-sadam",
+  "name": "Elumichai sadam",
+  "local_names": [
+    {
+      "text": "எலுமிச்சை சாதம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Lemon rice tempered with mustard, chilli and curry leaves.",
+  "ingredients": [
+    "rice",
+    "lemon",
+    "peanut",
+    "curry leaf"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

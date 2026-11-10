@@ -1,0 +1,33 @@
+{
+  "slug": "kalari",
+  "name": "Kalari",
+  "local_names": [
+    {
+      "text": "कलाड़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Fried slices of a ripened cheese from Udhampur, often served in a kulcha.",
+  "ingredients": [
+    "cow milk cheese"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

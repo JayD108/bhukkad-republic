@@ -1,0 +1,35 @@
+{
+  "slug": "vazhaipoo-vadai",
+  "name": "Vazhaipoo vadai",
+  "local_names": [
+    {
+      "text": "வாழைப்பூ வடை",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Crisp vada of chana dal and chopped banana flower.",
+  "ingredients": [
+    "banana flower",
+    "chana dal",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

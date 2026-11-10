@@ -1,0 +1,42 @@
+{
+  "slug": "dahibara-aludam",
+  "name": "Dahibara aludam",
+  "local_names": [
+    {
+      "text": "ଦହିବରା ଆଳୁଦମ",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Lentil vadas soaked in spiced yogurt, served with potato curry and ghugni. Cuttack's street food.",
+  "ingredients": [
+    "urad dal",
+    "yogurt",
+    "potato",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

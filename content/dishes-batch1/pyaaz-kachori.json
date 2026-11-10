@@ -1,0 +1,43 @@
+{
+  "slug": "pyaaz-kachori",
+  "name": "Pyaaz kachori",
+  "local_names": [
+    {
+      "text": "प्याज़ कचौरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Flaky fried pastry filled with spiced onion. Jodhpur is the city most known for it.",
+  "ingredients": [
+    "refined flour",
+    "onion",
+    "fennel",
+    "red chilli",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

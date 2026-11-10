@@ -1,0 +1,40 @@
+{
+  "slug": "nadia-kora",
+  "name": "Nadia kora",
+  "local_names": [
+    {
+      "text": "ନଡ଼ିଆ କୋରା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Balls of grated coconut cooked with sugar or jaggery.",
+  "ingredients": [
+    "coconut",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

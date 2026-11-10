@@ -1,0 +1,42 @@
+{
+  "slug": "sattu-paratha",
+  "name": "Sattu paratha",
+  "local_names": [
+    {
+      "text": "सत्तू पराठा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Wheat paratha stuffed with sattu mixed with onion, garlic, ajwain, mustard oil and pickle masala.",
+  "ingredients": [
+    "wheat flour",
+    "sattu",
+    "onion",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

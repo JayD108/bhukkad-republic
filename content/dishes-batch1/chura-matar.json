@@ -1,0 +1,36 @@
+{
+  "slug": "chura-matar",
+  "name": "Chura matar",
+  "local_names": [
+    {
+      "text": "चूड़ा मटर",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Flattened rice cooked with fresh green peas, ghee and spices. A Varanasi winter breakfast.",
+  "ingredients": [
+    "flattened rice",
+    "green peas",
+    "ghee",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

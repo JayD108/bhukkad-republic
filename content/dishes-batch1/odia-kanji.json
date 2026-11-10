@@ -1,0 +1,35 @@
+{
+  "slug": "odia-kanji",
+  "name": "Odia kanji",
+  "local_names": [
+    {
+      "text": "କାଞ୍ଜି",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A sour soup of fermented rice water with vegetables.",
+  "ingredients": [
+    "rice water",
+    "vegetables",
+    "mustard seed"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

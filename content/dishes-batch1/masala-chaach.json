@@ -1,0 +1,41 @@
+{
+  "slug": "masala-chaach",
+  "name": "Masala chaach",
+  "local_names": [
+    {
+      "text": "मसाला छाछ",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Thin spiced buttermilk with roasted cumin and salt, drunk with meals in summer.",
+  "ingredients": [
+    "buttermilk",
+    "cumin",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

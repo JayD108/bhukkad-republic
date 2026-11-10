@@ -1,0 +1,37 @@
+{
+  "slug": "mosdeng",
+  "name": "Mosdeng",
+  "local_names": [],
+  "state_ids": [
+    "tripura"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A chilli, herb and onion chutney with a seasonal vegetable such as tomato.",
+  "ingredients": [
+    "chilli",
+    "tomato",
+    "onion",
+    "herbs"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tripuri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tripuri_cuisine",
+      "title": "Tripuri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "gupchup",
+  "name": "Gupchup",
+  "local_names": [
+    {
+      "text": "ଗୁପଚୁପ",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Odisha's name for panipuri: crisp shells filled with potato and dipped in tangy water.",
+  "ingredients": [
+    "semolina",
+    "potato",
+    "tamarind",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

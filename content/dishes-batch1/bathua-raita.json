@@ -1,0 +1,35 @@
+{
+  "slug": "bathua-raita",
+  "name": "Bathua raita",
+  "local_names": [
+    {
+      "text": "बथुआ रायता",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Yogurt mixed with boiled chopped bathua greens and roasted cumin. A winter side.",
+  "ingredients": [
+    "bathua",
+    "yogurt",
+    "cumin"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

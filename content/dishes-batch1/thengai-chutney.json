@@ -1,0 +1,41 @@
+{
+  "slug": "thengai-chutney",
+  "name": "Thengai chutney",
+  "local_names": [
+    {
+      "text": "தேங்காய் சட்னி",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Ground coconut chutney tempered with mustard, eaten with idli and dosai.",
+  "ingredients": [
+    "coconut",
+    "green chilli",
+    "mustard seed"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "tilkut",
+  "name": "Tilkut",
+  "local_names": [
+    {
+      "text": "तिलकुट",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Pounded sesame and jaggery or sugar, beaten into thin discs. Made in winter; Gaya is famous for it.",
+  "ingredients": [
+    "sesame",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

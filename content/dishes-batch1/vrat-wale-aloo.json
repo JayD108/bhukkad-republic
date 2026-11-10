@@ -1,0 +1,36 @@
+{
+  "slug": "vrat-wale-aloo",
+  "name": "Vrat wale aloo",
+  "local_names": [
+    {
+      "text": "व्रत वाले आलू",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Boiled potatoes tossed with cumin, green chilli and rock salt, eaten on fast days.",
+  "ingredients": [
+    "potato",
+    "cumin",
+    "green chilli",
+    "rock salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

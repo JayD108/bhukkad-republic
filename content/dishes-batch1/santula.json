@@ -1,0 +1,42 @@
+{
+  "slug": "santula",
+  "name": "Santula",
+  "local_names": [
+    {
+      "text": "ସନ୍ତୁଳା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Lightly cooked mixed vegetables with garlic, green chilli and mustard. Simple, low-oil home food.",
+  "ingredients": [
+    "mixed vegetables",
+    "garlic",
+    "green chilli",
+    "mustard"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

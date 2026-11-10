@@ -1,0 +1,36 @@
+{
+  "slug": "hmarcha-rawt",
+  "name": "Hmarcha rawt",
+  "local_names": [],
+  "state_ids": [
+    "mizoram"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Tangy, spicy chilli chutney.",
+  "ingredients": [
+    "green chilli",
+    "ginger",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-mizo-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Mizo_cuisine",
+      "title": "Mizo cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

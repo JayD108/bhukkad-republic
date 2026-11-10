@@ -1,0 +1,42 @@
+{
+  "slug": "malaiyo",
+  "name": "Malaiyo",
+  "local_names": [
+    {
+      "text": "मलइयो",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Saffron-flavoured milk froth, set overnight in the winter dew and whipped by hand. Sold in Varanasi only in winter; Lucknow calls its version makhan malai.",
+  "ingredients": [
+    "milk",
+    "saffron",
+    "sugar",
+    "cardamom"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

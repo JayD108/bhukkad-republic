@@ -1,0 +1,40 @@
+{
+  "slug": "pori-urundai",
+  "name": "Pori urundai",
+  "local_names": [
+    {
+      "text": "பொரி உருண்டை",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Puffed rice bound with jaggery into balls, made for Karthigai Deepam.",
+  "ingredients": [
+    "puffed rice",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

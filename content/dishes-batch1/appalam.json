@@ -1,0 +1,40 @@
+{
+  "slug": "appalam",
+  "name": "Appalam",
+  "local_names": [
+    {
+      "text": "அப்பளம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Thin sun-dried discs of urad flour, fried until puffed.",
+  "ingredients": [
+    "urad flour",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

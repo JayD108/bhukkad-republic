@@ -1,0 +1,42 @@
+{
+  "slug": "mirchi-ke-tipore",
+  "name": "Mirchi ke tipore",
+  "local_names": [
+    {
+      "text": "मिर्ची के टपोरे",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "An instant pickle of chopped green chillies tossed in mustard, fennel and lemon.",
+  "ingredients": [
+    "green chilli",
+    "mustard seed",
+    "fennel",
+    "lemon"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

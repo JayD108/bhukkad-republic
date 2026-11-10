@@ -1,0 +1,41 @@
+{
+  "slug": "sel-roti",
+  "name": "Sel roti",
+  "local_names": [
+    {
+      "text": "सेल रोटी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "sikkim"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Ring-shaped sweet rice bread fried for Dashain and Tihar.",
+  "ingredients": [
+    "rice flour",
+    "sugar",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-sikkimese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "title": "Sikkimese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

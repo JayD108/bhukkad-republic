@@ -1,0 +1,42 @@
+{
+  "slug": "mirchi-bada",
+  "name": "Mirchi bada",
+  "local_names": [
+    {
+      "text": "मिर्ची बड़ा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Large mild chillies stuffed with spiced potato, dipped in gram-flour batter and fried. A Jodhpur street snack.",
+  "ingredients": [
+    "green chilli",
+    "potato",
+    "chickpea flour",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

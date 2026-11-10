@@ -1,0 +1,41 @@
+{
+  "slug": "rasiya",
+  "name": "Rasiya",
+  "local_names": [
+    {
+      "text": "रसिया",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Rice cooked in milk with jaggery, made as an offering for Chhath.",
+  "ingredients": [
+    "rice",
+    "jaggery",
+    "milk"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

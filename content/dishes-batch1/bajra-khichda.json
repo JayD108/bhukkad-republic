@@ -1,0 +1,41 @@
+{
+  "slug": "bajra-khichda",
+  "name": "Bajra khichda",
+  "local_names": [
+    {
+      "text": "बाजरा खीचड़ा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Pearl millet and moong dal cooked together into a soft khichdi, a winter dish of the desert.",
+  "ingredients": [
+    "pearl millet",
+    "moong dal",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

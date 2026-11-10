@@ -1,0 +1,36 @@
+{
+  "slug": "chettinad-kandarappam",
+  "name": "Chettinad kandarappam",
+  "local_names": [
+    {
+      "text": "கந்தரப்பம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Fried cakes of rice, urad dal and jaggery from Chettinad.",
+  "ingredients": [
+    "rice",
+    "urad dal",
+    "jaggery",
+    "coconut"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

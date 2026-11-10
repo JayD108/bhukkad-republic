@@ -1,0 +1,41 @@
+{
+  "slug": "lehsun-ki-chutney",
+  "name": "Lehsun ki chutney",
+  "local_names": [
+    {
+      "text": "लहसुन की चटनी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Fiery paste of garlic and red chilli, eaten with bajra roti and baati.",
+  "ingredients": [
+    "garlic",
+    "red chilli",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

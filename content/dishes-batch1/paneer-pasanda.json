@@ -1,0 +1,42 @@
+{
+  "slug": "paneer-pasanda",
+  "name": "Paneer pasanda",
+  "local_names": [
+    {
+      "text": "पनीर पसंदा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Paneer slices stuffed with nuts and simmered in a creamy gravy.",
+  "ingredients": [
+    "paneer",
+    "cashew",
+    "cream",
+    "tomato"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

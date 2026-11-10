@@ -1,0 +1,35 @@
+{
+  "slug": "tarua",
+  "name": "Tarua",
+  "local_names": [
+    {
+      "text": "तरुआ",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Thin slices of vegetables (brinjal, potato, pumpkin) dipped in batter and fried. Served at Mithila feasts.",
+  "ingredients": [
+    "vegetables",
+    "rice flour",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "tehri",
+  "name": "Tehri",
+  "local_names": [
+    {
+      "text": "तहरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Rice cooked with potatoes, peas and other vegetables in turmeric and whole spices. An everyday one-pot meal.",
+  "ingredients": [
+    "rice",
+    "potato",
+    "peas",
+    "turmeric"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-awadhi-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Awadhi_cuisine",
+      "title": "Awadhi cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

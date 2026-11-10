@@ -1,0 +1,41 @@
+{
+  "slug": "sutarfeni",
+  "name": "Sutarfeni",
+  "local_names": [
+    {
+      "text": "सूतरफेनी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Very fine fried threads of dough piled into a nest, eaten with sweetened milk.",
+  "ingredients": [
+    "refined flour",
+    "ghee",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

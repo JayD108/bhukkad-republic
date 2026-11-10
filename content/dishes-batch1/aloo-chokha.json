@@ -1,0 +1,42 @@
+{
+  "slug": "aloo-chokha",
+  "name": "Aloo chokha",
+  "local_names": [
+    {
+      "text": "आलू चोखा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Boiled potato mashed with raw mustard oil, onion, green chilli and coriander.",
+  "ingredients": [
+    "potato",
+    "mustard oil",
+    "onion",
+    "green chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

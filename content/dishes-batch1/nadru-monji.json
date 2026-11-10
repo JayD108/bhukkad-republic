@@ -1,0 +1,35 @@
+{
+  "slug": "nadru-monji",
+  "name": "Nadru monji",
+  "local_names": [
+    {
+      "text": "नदरू मोंजी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Lotus-stem slices dipped in spiced rice-flour batter and fried. Sold in Srinagar.",
+  "ingredients": [
+    "lotus stem",
+    "rice flour",
+    "Kashmiri chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

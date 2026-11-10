@@ -1,0 +1,41 @@
+{
+  "slug": "bela-pana",
+  "name": "Bela pana",
+  "local_names": [
+    {
+      "text": "ବେଲ ପଣା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Wood-apple drink with jaggery, made for Pana Sankranti, the Odia new year.",
+  "ingredients": [
+    "wood apple",
+    "jaggery",
+    "curd"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

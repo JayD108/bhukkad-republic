@@ -1,0 +1,41 @@
+{
+  "slug": "mathura-peda",
+  "name": "Mathura peda",
+  "local_names": [
+    {
+      "text": "मथुरा पेड़ा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Brown, grainy peda of slow-roasted milk and sugar, sold in Mathura and Vrindavan.",
+  "ingredients": [
+    "milk",
+    "sugar",
+    "cardamom"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "alwar-milk-cake",
+  "name": "Alwar milk cake",
+  "local_names": [
+    {
+      "text": "अलवर का मावा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A grainy, caramelised milk sweet, brown at the centre. Also called Alwar ka mawa.",
+  "ingredients": [
+    "milk",
+    "sugar",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

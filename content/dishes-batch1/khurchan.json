@@ -1,0 +1,40 @@
+{
+  "slug": "khurchan",
+  "name": "Khurchan",
+  "local_names": [
+    {
+      "text": "खुरचन",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Thin layers of milk skin scraped from a slowly heating pan and layered with sugar.",
+  "ingredients": [
+    "milk",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

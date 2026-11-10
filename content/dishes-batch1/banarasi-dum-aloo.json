@@ -1,0 +1,36 @@
+{
+  "slug": "banarasi-dum-aloo",
+  "name": "Banarasi dum aloo",
+  "local_names": [
+    {
+      "text": "बनारसी दम आलू",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Fried baby potatoes stuffed with paneer and cooked in a rich, mildly sweet gravy.",
+  "ingredients": [
+    "potato",
+    "paneer",
+    "cashew",
+    "tomato"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

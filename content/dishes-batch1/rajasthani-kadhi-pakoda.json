@@ -1,0 +1,42 @@
+{
+  "slug": "rajasthani-kadhi-pakoda",
+  "name": "Rajasthani kadhi pakoda",
+  "local_names": [
+    {
+      "text": "राजस्थानी कढ़ी पकोड़ा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Thin, tangy yogurt and gram-flour kadhi with fried onion or besan fritters.",
+  "ingredients": [
+    "yogurt",
+    "chickpea flour",
+    "onion",
+    "fenugreek seed"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

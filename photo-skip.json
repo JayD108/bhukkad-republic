@@ -1,0 +1,9 @@
+{
+  "_note": "Photos found by find-photos.mjs that were looked at and rejected. Keyed by dish name. These stay rejected even if find-photos.mjs is run again.",
+  "skip": {
+    "Idiyappam": "The file shows egg masala curry. This site is pure vegetarian.",
+    "Laapsi": "The photo is moong dal halwa, a different dish.",
+    "Mor kuzhambu": "The photo is Kalan, a different dish.",
+    "Idli podi": "The photo is fried idli pieces, not the podi powder."
+  }
+}

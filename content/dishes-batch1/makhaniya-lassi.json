@@ -1,0 +1,42 @@
+{
+  "slug": "makhaniya-lassi",
+  "name": "Makhaniya lassi",
+  "local_names": [
+    {
+      "text": "मखनिया लस्सी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Thick sweet lassi topped with butter or cream, a Jodhpur speciality.",
+  "ingredients": [
+    "yogurt",
+    "sugar",
+    "butter",
+    "saffron"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

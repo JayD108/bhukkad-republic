@@ -1,0 +1,42 @@
+{
+  "slug": "awadhi-samosa",
+  "name": "Awadhi samosa",
+  "local_names": [
+    {
+      "text": "अवधी समोसा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Fried pastry filled with spiced potato and peas, served with chutney.",
+  "ingredients": [
+    "refined flour",
+    "potato",
+    "peas",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-awadhi-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Awadhi_cuisine",
+      "title": "Awadhi cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

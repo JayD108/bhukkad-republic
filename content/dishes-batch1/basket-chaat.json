@@ -1,0 +1,36 @@
+{
+  "slug": "basket-chaat",
+  "name": "Basket chaat",
+  "local_names": [
+    {
+      "text": "बास्केट चाट",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "A fried potato-strand basket filled with tikki, chickpeas, yogurt and chutneys. A Lucknow speciality.",
+  "ingredients": [
+    "potato",
+    "chickpea",
+    "yogurt",
+    "chutney"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

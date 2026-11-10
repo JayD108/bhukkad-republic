@@ -1,0 +1,36 @@
+{
+  "slug": "panjeeri",
+  "name": "Panjeeri",
+  "local_names": [
+    {
+      "text": "पंजीरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Roasted whole-wheat flour with ghee, sugar, dry fruit and edible gum. Offered on Janmashtami and given to new mothers.",
+  "ingredients": [
+    "wheat flour",
+    "ghee",
+    "sugar",
+    "dry fruit"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

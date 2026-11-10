@@ -1,0 +1,42 @@
+{
+  "slug": "noon-chai",
+  "name": "Noon chai",
+  "local_names": [
+    {
+      "text": "नून चाय",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Pink salted tea of green tea leaves, milk, salt and a pinch of soda.",
+  "ingredients": [
+    "tea",
+    "milk",
+    "salt",
+    "baking soda"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

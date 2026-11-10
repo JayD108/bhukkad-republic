@@ -1,0 +1,36 @@
+{
+  "slug": "chuda-ghasa",
+  "name": "Chuda ghasa",
+  "local_names": [
+    {
+      "text": "ଚୁଡ଼ା ଘସା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Flattened rice rubbed with ghee, jaggery and coconut, offered on Ganesh Chaturthi.",
+  "ingredients": [
+    "flattened rice",
+    "ghee",
+    "jaggery",
+    "coconut"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

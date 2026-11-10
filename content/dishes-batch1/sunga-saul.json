@@ -1,0 +1,40 @@
+{
+  "slug": "sunga-saul",
+  "name": "Sunga saul",
+  "local_names": [
+    {
+      "text": "চুঙা চাউল",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Sticky rice cooked in hollow bamboo.",
+  "ingredients": [
+    "sticky rice",
+    "bamboo"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

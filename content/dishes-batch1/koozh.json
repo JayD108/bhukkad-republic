@@ -1,0 +1,41 @@
+{
+  "slug": "koozh",
+  "name": "Koozh",
+  "local_names": [
+    {
+      "text": "கூழ்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Fermented porridge of ragi or kambu, offered at Amman temples in the month of Aadi.",
+  "ingredients": [
+    "finger millet",
+    "water",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

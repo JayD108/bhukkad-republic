@@ -1,0 +1,35 @@
+{
+  "slug": "rabri",
+  "name": "Rabri",
+  "local_names": [
+    {
+      "text": "रबड़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Milk reduced for hours until thick, with the layers of cream stirred back in. Sweetened with sugar and cardamom.",
+  "ingredients": [
+    "milk",
+    "sugar",
+    "cardamom"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

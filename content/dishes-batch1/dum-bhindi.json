@@ -1,0 +1,41 @@
+{
+  "slug": "dum-bhindi",
+  "name": "Dum bhindi",
+  "local_names": [
+    {
+      "text": "दम भिंडी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Whole okra stuffed with spiced potato and slow-cooked.",
+  "ingredients": [
+    "okra",
+    "potato",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

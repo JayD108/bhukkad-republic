@@ -1,0 +1,40 @@
+{
+  "slug": "laskara-laru",
+  "name": "Laskara laru",
+  "local_names": [
+    {
+      "text": "লস্কৰা লাৰু",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Puffed rice bound with jaggery into balls.",
+  "ingredients": [
+    "puffed rice",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

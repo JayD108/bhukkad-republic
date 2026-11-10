@@ -1,0 +1,42 @@
+{
+  "slug": "mohanthal",
+  "name": "Mohanthal",
+  "local_names": [
+    {
+      "text": "मोहनथाल",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A grainy, fudge-like sweet of roasted gram flour, ghee and sugar, set and cut into squares.",
+  "ingredients": [
+    "chickpea flour",
+    "ghee",
+    "sugar",
+    "khoya"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "gogji-aare",
+  "name": "Gogji aare",
+  "local_names": [
+    {
+      "text": "गोग्जी आरे",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Sun-dried turnip pieces cooked in winter. Eaten around the Urs of Hazrat Sheikh Dawood.",
+  "ingredients": [
+    "dried turnip",
+    "mustard oil",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "komal-saul",
+  "name": "Komal saul",
+  "local_names": [
+    {
+      "text": "কোমল চাউল",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Pre-cooked, dried rice that softens in warm water, eaten with curd and jaggery.",
+  "ingredients": [
+    "komal rice",
+    "curd",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

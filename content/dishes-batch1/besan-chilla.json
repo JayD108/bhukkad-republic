@@ -1,0 +1,42 @@
+{
+  "slug": "besan-chilla",
+  "name": "Besan chilla",
+  "local_names": [
+    {
+      "text": "बेसन चीला",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Savoury gram-flour pancake with chopped onion, tomato and green chilli.",
+  "ingredients": [
+    "chickpea flour",
+    "onion",
+    "tomato",
+    "green chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "seeyam",
+  "name": "Seeyam",
+  "local_names": [
+    {
+      "text": "சீயம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Fried batter-coated balls of moong dal, coconut and jaggery from Chettinad.",
+  "ingredients": [
+    "moong dal",
+    "coconut",
+    "jaggery",
+    "rice"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "girda",
+  "name": "Girda",
+  "local_names": [
+    {
+      "text": "गिर्दा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Round leavened bread with finger dents on top, baked in the kandur's oven.",
+  "ingredients": [
+    "refined flour",
+    "yeast"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

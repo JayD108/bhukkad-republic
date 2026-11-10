@@ -1,0 +1,39 @@
+{
+  "slug": "akhoi",
+  "name": "Akhoi",
+  "local_names": [
+    {
+      "text": "আখৈ",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Puffed sticky rice, eaten with milk or jaggery.",
+  "ingredients": [
+    "rice"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

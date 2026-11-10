@@ -1,0 +1,35 @@
+{
+  "slug": "ambal",
+  "name": "Ambal",
+  "local_names": [
+    {
+      "text": "अम्बल",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A sweet and sour Dogra pumpkin dish with jaggery and tamarind.",
+  "ingredients": [
+    "pumpkin",
+    "jaggery",
+    "tamarind"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

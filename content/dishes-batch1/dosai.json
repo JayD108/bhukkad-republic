@@ -1,0 +1,40 @@
+{
+  "slug": "dosai",
+  "name": "Dosai",
+  "local_names": [
+    {
+      "text": "தோசை",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Crisp fermented crêpe of rice and urad dal, eaten with sambar and chutney. Many versions: plain, ghee roast, paper roast, rava, ragi.",
+  "ingredients": [
+    "rice",
+    "urad dal"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

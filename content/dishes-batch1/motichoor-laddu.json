@@ -1,0 +1,41 @@
+{
+  "slug": "motichoor-laddu",
+  "name": "Motichoor laddu",
+  "local_names": [
+    {
+      "text": "मोतीचूर लड्डू",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Tiny fried gram-flour pearls soaked in syrup and pressed into balls.",
+  "ingredients": [
+    "chickpea flour",
+    "ghee",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

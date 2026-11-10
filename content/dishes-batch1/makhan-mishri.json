@@ -1,0 +1,46 @@
+{
+  "slug": "makhan-mishri",
+  "name": "Makhan mishri",
+  "local_names": [
+    {
+      "text": "माखन मिश्री",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Fresh white butter with rock sugar, offered to Krishna in Braj.",
+  "ingredients": [
+    "butter",
+    "rock sugar"
+  ],
+  "origin": {
+    "label": "TRADITIONAL",
+    "text": "Called a favourite food of Krishna in Braj tradition.",
+    "citations": [
+      {
+        "source_id": "wp-up-cuisine",
+        "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+        "title": "Cuisine of Uttar Pradesh"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

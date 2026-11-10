@@ -1,0 +1,37 @@
+{
+  "slug": "thandai",
+  "name": "Thandai",
+  "local_names": [
+    {
+      "text": "ठंडाई",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Chilled milk blended with almonds, fennel, melon seeds, pepper and rose. Drunk at Holi, especially in Varanasi.",
+  "ingredients": [
+    "milk",
+    "almond",
+    "fennel",
+    "black pepper",
+    "rose"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

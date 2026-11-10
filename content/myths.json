@@ -1,0 +1,210 @@
+[
+  {
+    "id": "samosa-potato",
+    "slug": "samosa-potato",
+    "question": "Was the samosa always filled with potato?",
+    "verdict": "No",
+    "label": "DOCUMENTED",
+    "answer": "It can't have been. The potato is an Andean crop that European travellers first record in India in the 1600s, so any potato filling is no older than that.",
+    "citations": [
+      {
+        "source_id": "wp-history-potato",
+        "locator": ""
+      },
+      {
+        "source_id": "wp-potato",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [],
+    "ingredient_ids": [
+      "potato"
+    ]
+  },
+  {
+    "id": "rasagola-origin",
+    "slug": "rasagola-origin",
+    "question": "Did the rasagola come from Odisha or Bengal?",
+    "verdict": "Disputed",
+    "label": "DISPUTED",
+    "answer": "Both sides have a case. Odisha points to temple ritual and older texts; Bengal to 19th-century confectioners. Historians who find no Indian cheese before the 1600s doubt the earliest Odia dates. Each state holds a GI for its own version.",
+    "citations": [
+      {
+        "source_id": "wp-rasgulla",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "rasagola"
+    ],
+    "ingredient_ids": [
+      "chhena"
+    ]
+  },
+  {
+    "id": "chilli-native",
+    "slug": "chilli-native",
+    "question": "Is chilli native to India?",
+    "verdict": "No",
+    "label": "DOCUMENTED",
+    "answer": "Chillies come from the Americas and most likely arrived in the 1500s with Portuguese traders. Black pepper, by contrast, is native to India's Western Ghats.",
+    "citations": [
+      {
+        "source_id": "wp-chili-pepper",
+        "locator": ""
+      },
+      {
+        "source_id": "wp-black-pepper",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [],
+    "ingredient_ids": [
+      "chilli"
+    ]
+  },
+  {
+    "id": "petha-taj",
+    "slug": "petha-taj",
+    "question": "Was petha invented to feed the Taj Mahal's builders?",
+    "verdict": "Legend",
+    "label": "TRADITIONAL",
+    "answer": "A popular story, but probably not true: petha is missing from Shah Jahan's own cookbook, and similar sweets are recorded earlier.",
+    "citations": [
+      {
+        "source_id": "wp-petha",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "agra-petha"
+    ],
+    "ingredient_ids": []
+  },
+  {
+    "id": "idli-indonesia",
+    "slug": "idli-indonesia",
+    "question": "Did idli come from Indonesia?",
+    "verdict": "Disputed",
+    "label": "DISPUTED",
+    "answer": "Historian K. T. Achaya suggested so, but the Indonesian dish he named hasn't been traced. Others argue fermentation and steaming developed independently in South India.",
+    "citations": [
+      {
+        "source_id": "wp-idli",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "idli"
+    ],
+    "ingredient_ids": []
+  },
+  {
+    "id": "jalebi-indian",
+    "slug": "jalebi-indian",
+    "question": "Is jalebi an Indian invention?",
+    "verdict": "Probably not",
+    "label": "DOCUMENTED",
+    "answer": "The oldest known recipe for jalebi-like fritters is in a 10th-century Arabic cookbook. In India, jalebi is first mentioned around 1450.",
+    "citations": [
+      {
+        "source_id": "wp-jalebi",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "indori-poha-jalebi"
+    ],
+    "ingredient_ids": []
+  },
+  {
+    "id": "bhima-avial",
+    "slug": "bhima-avial",
+    "question": "Did Bhima invent avial?",
+    "verdict": "Legend",
+    "label": "TRADITIONAL",
+    "answer": "It's a much-loved story from Kerala, set during the Pandavas' exile, but there is no historical evidence for it.",
+    "citations": [
+      {
+        "source_id": "wp-aviyal",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "avial"
+    ],
+    "ingredient_ids": []
+  },
+  {
+    "id": "maize-hoysala",
+    "slug": "maize-hoysala",
+    "question": "Was maize carved on 12th-century Hoysala temples?",
+    "verdict": "Disputed",
+    "label": "DISPUTED",
+    "answer": "A 1989 paper said yes, which would mean maize reached India before Columbus. Many scholars disagree and read the carvings as a mythical pearl fruit.",
+    "citations": [
+      {
+        "source_id": "osu-maize",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [],
+    "ingredient_ids": [
+      "maize"
+    ]
+  },
+  {
+    "id": "paneer-vedic",
+    "slug": "paneer-vedic",
+    "question": "Has paneer been made in India since Vedic times?",
+    "verdict": "Disputed",
+    "label": "DISPUTED",
+    "answer": "Nobody knows for sure. Theories range from a Vedic origin to Persian or Afghan influence to Portuguese teaching in 17th-century Bengal.",
+    "citations": [
+      {
+        "source_id": "wp-paneer",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [],
+    "ingredient_ids": [
+      "chhena"
+    ]
+  },
+  {
+    "id": "baati-sand",
+    "slug": "baati-sand",
+    "question": "Did Rajput soldiers bake baati in the desert sand?",
+    "verdict": "Legend",
+    "label": "TRADITIONAL",
+    "answer": "It's a popular story, but our source calls it anecdotal.",
+    "citations": [
+      {
+        "source_id": "wp-dal-baati",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [
+      "dal-baati-churma"
+    ],
+    "ingredient_ids": []
+  },
+  {
+    "id": "tomato-old",
+    "slug": "tomato-old",
+    "question": "Has the tomato always been part of Indian curries?",
+    "verdict": "No",
+    "label": "DOCUMENTED",
+    "answer": "Tomatoes reached India in the 1600s but were mostly grown for Europeans until the 20th century, when Indian cookbooks took them up.",
+    "citations": [
+      {
+        "source_id": "goya-tomato",
+        "locator": ""
+      }
+    ],
+    "dish_ids": [],
+    "ingredient_ids": [
+      "tomato"
+    ]
+  }
+]

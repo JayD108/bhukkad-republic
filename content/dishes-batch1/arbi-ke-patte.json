@@ -1,0 +1,36 @@
+{
+  "slug": "arbi-ke-patte",
+  "name": "Arbi ke patte",
+  "local_names": [
+    {
+      "text": "अरबी के पत्ते",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Taro leaves layered with spiced gram-flour paste, rolled, steamed, sliced and fried.",
+  "ingredients": [
+    "taro leaf",
+    "chickpea flour",
+    "tamarind",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

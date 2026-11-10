@@ -1,0 +1,41 @@
+{
+  "slug": "muji-tamarind",
+  "name": "Muji tamarind",
+  "local_names": [
+    {
+      "text": "मुजि",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Radish braised with tamarind, eaten around the Urs of Raeshmol Saheb in Anantnag.",
+  "ingredients": [
+    "radish",
+    "tamarind",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

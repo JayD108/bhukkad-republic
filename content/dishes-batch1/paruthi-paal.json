@@ -1,0 +1,36 @@
+{
+  "slug": "paruthi-paal",
+  "name": "Paruthi paal",
+  "local_names": [
+    {
+      "text": "பருத்தி பால்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "A hot drink of cottonseed milk, rice flour, jaggery and dry ginger, sold in Madurai.",
+  "ingredients": [
+    "cottonseed",
+    "rice flour",
+    "jaggery",
+    "dry ginger"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

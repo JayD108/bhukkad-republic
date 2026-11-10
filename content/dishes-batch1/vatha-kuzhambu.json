@@ -1,0 +1,41 @@
+{
+  "slug": "vatha-kuzhambu",
+  "name": "Vatha kuzhambu",
+  "local_names": [
+    {
+      "text": "வத்தக் குழம்பு",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Thick, tangy tamarind curry with sun-dried berries (vathal) and sesame oil.",
+  "ingredients": [
+    "tamarind",
+    "sundakkai vathal",
+    "sesame oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

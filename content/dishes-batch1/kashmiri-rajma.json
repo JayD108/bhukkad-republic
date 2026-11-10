@@ -1,0 +1,35 @@
+{
+  "slug": "kashmiri-rajma",
+  "name": "Kashmiri rajma",
+  "local_names": [
+    {
+      "text": "कश्मीरी राजमा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Small red kidney beans of the Kashmir hills, slow-cooked with turnip or potato.",
+  "ingredients": [
+    "kidney beans",
+    "turnip",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

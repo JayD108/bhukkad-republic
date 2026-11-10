@@ -1,0 +1,41 @@
+{
+  "slug": "khubi-ka-lai",
+  "name": "Khubi ka lai",
+  "local_names": [
+    {
+      "text": "खुबी का लाई",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A sweet of puffed ramdana seeds, khoya and sugar from Barh.",
+  "ingredients": [
+    "amaranth seed",
+    "khoya",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

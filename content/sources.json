@@ -1,0 +1,665 @@
+[
+  {
+    "id": "wp-gi-list",
+    "type": "website",
+    "citation": "\"List of geographical indications in India\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-dhokla",
+    "type": "website",
+    "citation": "\"Dhokla\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Dhokla",
+    "reliability": "secondary"
+  },
+  {
+    "id": "knocksense-dhokla",
+    "type": "article",
+    "citation": "\"Steaming through centuries: the evolution of Gujarat's popular dish dhokla\", Knocksense (accessed 30 Oct 2026)",
+    "url": "https://www.knocksense.com/ahmedabad/steaming-through-centuries-the-evolution-of-gujarats-popular-dish-dhokla",
+    "reliability": "secondary"
+  },
+  {
+    "id": "achaya-dictionary",
+    "type": "book",
+    "citation": "K. T. Achaya, A Historical Dictionary of Indian Food (Oxford University Press, 1998)",
+    "author": "K. T. Achaya",
+    "year": "1998",
+    "reliability": "primary"
+  },
+  {
+    "id": "wp-bikaneri-bhujia",
+    "type": "website",
+    "citation": "\"Bikaneri bhujia\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Bikaneri_bhujia",
+    "reliability": "secondary"
+  },
+  {
+    "id": "govnow-bhujia-gi",
+    "type": "article",
+    "citation": "\"Bikaneri Bhujia, Paithani sarees now with GI mark\", Governance Now, 16 Sep 2010",
+    "url": "https://www.governancenow.com/news/regular-story/bikaneri-bhujia-paithani-sarees-now-gi-mark",
+    "year": "2010",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-dal-baati",
+    "type": "website",
+    "citation": "\"Dal baati\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Dal_baati",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-ghevar",
+    "type": "website",
+    "citation": "\"Ghevar\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Ghevar",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-khandvi",
+    "type": "website",
+    "citation": "\"Khandvi (food)\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Khandvi_(food)",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-undhiyu",
+    "type": "website",
+    "citation": "\"Undhiyu\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Undhiyu",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-puran-poli",
+    "type": "website",
+    "citation": "\"Puran poli\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Puran_poli",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-misal-pav",
+    "type": "website",
+    "citation": "\"Misal pav\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Misal_pav",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-vada-pav",
+    "type": "website",
+    "citation": "\"Vada pav\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Vada_pav",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-khatkhate",
+    "type": "website",
+    "citation": "\"Khatkhate\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Khatkhate",
+    "reliability": "secondary"
+  },
+  {
+    "id": "goemkarponn-khaje",
+    "type": "article",
+    "citation": "\"Goan Khaje, a traditional sweet dish, obtains GI notification under class 30 of food products\", Goemkarponn, 31 Jul 2020",
+    "url": "https://goemkarponn.com/goan-khaje-a-traditional-sweet-dish-obtaina-gi-notification-under-class-30-of-food-products",
+    "year": "2020",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-mysore-pak",
+    "type": "website",
+    "citation": "\"Mysore pak\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Mysore_pak",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-bisi-bele-bath",
+    "type": "website",
+    "citation": "\"Bisi bele bath\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Bisi_bele_bath",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-dharwad-pedha",
+    "type": "website",
+    "citation": "\"Dharwad pedha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Dharwad_pedha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-aviyal",
+    "type": "website",
+    "citation": "\"Aviyal\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Aviyal",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-puttu",
+    "type": "website",
+    "citation": "\"Puttu\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Puttu",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-appam",
+    "type": "website",
+    "citation": "\"Appam\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Appam",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-idli",
+    "type": "website",
+    "citation": "\"Idli\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Idli",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-pongal",
+    "type": "website",
+    "citation": "\"Pongal (dish)\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Pongal_(dish)",
+    "reliability": "secondary"
+  },
+  {
+    "id": "inkl-palkova",
+    "type": "article",
+    "citation": "\"Srivilliputhur's century-old affair with palkova\", via inkl (accessed 30 Oct 2026)",
+    "url": "https://www.inkl.com/news/srivilliputhur-s-century-old-affair-with-palkova",
+    "reliability": "secondary"
+  },
+  {
+    "id": "dtnext-kovilpatti",
+    "type": "article",
+    "citation": "\"Kovilpatti 'Kadalai Mittai' gets GI tag\", DT Next, 30 Apr 2020",
+    "url": "https://www.dtnext.in/news/tamilnadu/kovilpatti-kadalai-mittai-gets-gi-tag",
+    "year": "2020",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-pesarattu",
+    "type": "website",
+    "citation": "\"Pesarattu\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Pesarattu",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-bandar-laddu",
+    "type": "website",
+    "citation": "\"Bandar laddu\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Bandar_laddu",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-rasgulla",
+    "type": "website",
+    "citation": "\"Rasgulla\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Rasgulla",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-chhena-poda",
+    "type": "website",
+    "citation": "\"Chhena poda\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Chhena_poda",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-odisha-cuisine",
+    "type": "website",
+    "citation": "\"Cuisine of Odisha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Cuisine_of_Odisha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-mishti-doi",
+    "type": "website",
+    "citation": "\"Mishti doi\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Mishti_doi",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-mihidana",
+    "type": "website",
+    "citation": "\"Mihidana\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Mihidana",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-shukto",
+    "type": "website",
+    "citation": "\"Shukto\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Shukto",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-litti-chokha",
+    "type": "website",
+    "citation": "\"Litti chokha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Litti_chokha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-khaja",
+    "type": "website",
+    "citation": "\"Khaja\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Khaja",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-petha",
+    "type": "website",
+    "citation": "\"Petha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Petha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "dtnext-up-gi",
+    "type": "article",
+    "citation": "\"UP now has the most GI-tagged items in the country\", DT Next (IANS), 17 Apr 2024",
+    "url": "https://www.dtnext.in/news/business/up-now-has-the-most-gi-tagged-items-in-the-country-780033",
+    "year": "2024",
+    "reliability": "secondary"
+  },
+  {
+    "id": "slurrp-bedmi",
+    "type": "article",
+    "citation": "\"UP or Delhi, whose 'Bedmi' is it anyway?\", Slurrp (accessed 30 Oct 2026)",
+    "url": "https://www.slurrp.com/article/up-or-delhi-whos-bedmi-is-it-anyway-1659342340575",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-sarson-da-saag",
+    "type": "website",
+    "citation": "\"Sarson da saag\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Sarson_da_saag",
+    "reliability": "secondary"
+  },
+  {
+    "id": "tribune-kulcha",
+    "type": "article",
+    "citation": "\"Kulcha: crown jewel of street food in Amritsar\", The Tribune (accessed 30 Oct 2026)",
+    "url": "https://www.tribuneindia.com/news/amritsar/kulcha-crown-jewel-of-street-food-in-amritsar",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-kulcha",
+    "type": "website",
+    "citation": "\"Kulcha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Kulcha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-dum-aloo",
+    "type": "website",
+    "citation": "\"Dum aloo\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Dum_aloo",
+    "reliability": "secondary"
+  },
+  {
+    "id": "homegrown-nadru",
+    "type": "article",
+    "citation": "\"Lotus stem and its unbreakable bond with Kashmiri cuisine\", Homegrown (accessed 30 Oct 2026)",
+    "url": "https://homegrown.co.in/homegrown-explore/lotus-stem-its-unbreakable-bond-with-kashmiri-cuisine",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-siddu",
+    "type": "website",
+    "citation": "\"Siddu (bread)\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Siddu_(bread)",
+    "reliability": "secondary"
+  },
+  {
+    "id": "lokpriya-kangri-dham",
+    "type": "article",
+    "citation": "\"Enjoying Kangri Dham\", Lokpriya (accessed 30 Oct 2026)",
+    "url": "https://www.lokpriya.com/stories/kangri-dham",
+    "reliability": "secondary"
+  },
+  {
+    "id": "nvli-kafuli",
+    "type": "website",
+    "citation": "\"Kafuli\", Indian Culture portal, National Virtual Library of India (accessed 30 Oct 2026)",
+    "url": "https://wzcc.nvli.in/cuisine/kafuli",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-bal-mithai",
+    "type": "website",
+    "citation": "\"Bal mithai\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Bal_mithai",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-indori-poha",
+    "type": "website",
+    "citation": "\"Indori poha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Indori_poha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-jalebi",
+    "type": "website",
+    "citation": "\"Jalebi\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Jalebi",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-dhooska",
+    "type": "website",
+    "citation": "\"Dhooska\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Dhooska",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-pitha",
+    "type": "website",
+    "citation": "\"Pitha\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Pitha",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-chak-hao",
+    "type": "website",
+    "citation": "\"Chak-Hao black rice\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Chak-Hao_black_rice",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-bebinca",
+    "type": "website",
+    "citation": "\"Bebinca\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Bebinca",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-chili-pepper",
+    "type": "website",
+    "citation": "\"Chili pepper\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Chili_pepper",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-history-potato",
+    "type": "website",
+    "citation": "\"History of the potato\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/History_of_the_potato",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-potato",
+    "type": "website",
+    "citation": "\"Potato\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Potato",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-tomato",
+    "type": "website",
+    "citation": "\"Tomato\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Tomato",
+    "reliability": "secondary"
+  },
+  {
+    "id": "goya-tomato",
+    "type": "article",
+    "citation": "\"The rise of the tomato: how tomatoes went from an object of suspicion to India's souring agent of choice\", Goya Journal (accessed 30 Oct 2026)",
+    "url": "https://www.goya.in/blog/how-tomatoes-went-from-an-object-of-suspicion-to-indias-souring-agent-of-choice",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-maize",
+    "type": "website",
+    "citation": "\"Maize\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Maize",
+    "reliability": "secondary"
+  },
+  {
+    "id": "osu-maize",
+    "type": "website",
+    "citation": "J. Huston McCulloch, \"Maize in India?\" (summary of the Hoysala sculpture debate, incl. Johannessen & Parker, Economic Botany 43, 1989) (accessed 30 Oct 2026)",
+    "url": "https://www.asc.ohio-state.edu/mcculloch.2/arch/maize.html",
+    "reliability": "secondary"
+  },
+  {
+    "id": "celkau-groundnut",
+    "type": "website",
+    "citation": "\"Groundnut: about the crop\", Centre for e-Learning, Kerala Agricultural University (accessed 30 Oct 2026)",
+    "url": "https://celkau.in/crops/oilseeds/Ground%20nut/about.php",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-peanut",
+    "type": "website",
+    "citation": "\"Peanut\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Peanut",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-cashew",
+    "type": "website",
+    "citation": "\"Cashew\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Cashew",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-papaya",
+    "type": "website",
+    "citation": "\"Papaya\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Papaya",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-pineapple",
+    "type": "website",
+    "citation": "\"Pineapple\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Pineapple",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-guava",
+    "type": "website",
+    "citation": "\"Guava\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Guava",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-annona",
+    "type": "website",
+    "citation": "\"Annona squamosa\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Annona_squamosa",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-turmeric",
+    "type": "website",
+    "citation": "\"Turmeric\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Turmeric",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-black-pepper",
+    "type": "website",
+    "citation": "\"Black pepper\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Black_pepper",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-ginger",
+    "type": "website",
+    "citation": "\"Ginger\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Ginger",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-garlic",
+    "type": "website",
+    "citation": "\"Garlic\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Garlic",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-sesame",
+    "type": "website",
+    "citation": "\"Sesame\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Sesame",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-rice",
+    "type": "website",
+    "citation": "\"Rice\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Rice",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-wheat",
+    "type": "website",
+    "citation": "\"Wheat\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Wheat",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-moth-bean",
+    "type": "website",
+    "citation": "\"Vigna aconitifolia\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Vigna_aconitifolia",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-chickpea",
+    "type": "website",
+    "citation": "\"Chickpea\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Chickpea",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-sugarcane",
+    "type": "website",
+    "citation": "\"Sugarcane\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Sugarcane",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-cardamom",
+    "type": "website",
+    "citation": "\"Elettaria cardamomum\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Elettaria_cardamomum",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-mustard-seed",
+    "type": "website",
+    "citation": "\"Mustard seed\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Mustard_seed",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-coconut",
+    "type": "website",
+    "citation": "\"Coconut\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Coconut",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-tamarind",
+    "type": "website",
+    "citation": "\"Tamarind\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Tamarind",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-paneer",
+    "type": "website",
+    "citation": "\"Paneer\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Paneer",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-ghee",
+    "type": "website",
+    "citation": "\"Ghee\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Ghee",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-black-gram",
+    "type": "website",
+    "citation": "\"Vigna mungo\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Vigna_mungo",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-mung-bean",
+    "type": "website",
+    "citation": "\"Mung bean\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Mung_bean",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-pigeon-pea",
+    "type": "website",
+    "citation": "\"Pigeon pea\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Pigeon_pea",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-sweet-potato",
+    "type": "website",
+    "citation": "\"Sweet potato\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Sweet_potato",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-cucurbita",
+    "type": "website",
+    "citation": "\"Cucurbita\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Cucurbita",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-banana",
+    "type": "website",
+    "citation": "\"Banana\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Banana",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-wax-gourd",
+    "type": "website",
+    "citation": "\"Wax gourd\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Wax_gourd",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-lotus",
+    "type": "website",
+    "citation": "\"Nelumbo nucifera\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Nelumbo_nucifera",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-spinach",
+    "type": "website",
+    "citation": "\"Spinach\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Spinach",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-poppy",
+    "type": "website",
+    "citation": "\"Papaver somniferum\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Papaver_somniferum",
+    "reliability": "secondary"
+  },
+  {
+    "id": "wp-eggplant",
+    "type": "website",
+    "citation": "\"Eggplant\", Wikipedia (accessed 30 Oct 2026)",
+    "url": "https://en.wikipedia.org/wiki/Eggplant",
+    "reliability": "secondary"
+  }
+]

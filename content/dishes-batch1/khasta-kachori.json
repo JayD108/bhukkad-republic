@@ -1,0 +1,41 @@
+{
+  "slug": "khasta-kachori",
+  "name": "Khasta kachori",
+  "local_names": [
+    {
+      "text": "खस्ता कचौरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A flaky, crisp kachori filled with spiced moong or urad dal, eaten with aloo sabzi.",
+  "ingredients": [
+    "refined flour",
+    "moong dal",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "papad-ki-sabzi",
+  "name": "Papad ki sabzi",
+  "local_names": [
+    {
+      "text": "पापड़ की सब्ज़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Broken papad simmered briefly in a yogurt gravy. A quick dish from the desert, where fresh vegetables were scarce.",
+  "ingredients": [
+    "papad",
+    "yogurt",
+    "red chilli",
+    "cumin"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

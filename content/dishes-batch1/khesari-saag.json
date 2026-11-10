@@ -1,0 +1,41 @@
+{
+  "slug": "khesari-saag",
+  "name": "Khesari saag",
+  "local_names": [
+    {
+      "text": "खेसारी साग",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Young grass-pea leaves cooked with garlic and mustard oil.",
+  "ingredients": [
+    "grass pea leaves",
+    "garlic",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

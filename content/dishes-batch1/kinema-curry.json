@@ -1,0 +1,41 @@
+{
+  "slug": "kinema-curry",
+  "name": "Kinema curry",
+  "local_names": [
+    {
+      "text": "किनेमा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "sikkim"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Curry of kinema, a fermented soybean food, eaten with rice.",
+  "ingredients": [
+    "fermented soybean",
+    "onion",
+    "tomato"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-sikkimese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "title": "Sikkimese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

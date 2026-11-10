@@ -1,0 +1,41 @@
+{
+  "slug": "saga-bhaja",
+  "name": "Saga bhaja",
+  "local_names": [
+    {
+      "text": "ଶାଗ ଭଜା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Leafy greens stir-fried with garlic and dried chilli, eaten with pakhala.",
+  "ingredients": [
+    "leafy greens",
+    "garlic",
+    "dried chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

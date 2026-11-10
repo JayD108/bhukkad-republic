@@ -1,0 +1,5 @@
+.photo-cache.json
+_*.html
+node_modules/
+.DS_Store
+Thumbs.db

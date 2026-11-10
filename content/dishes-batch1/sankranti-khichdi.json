@@ -1,0 +1,41 @@
+{
+  "slug": "sankranti-khichdi",
+  "name": "Sankranti khichdi",
+  "local_names": [
+    {
+      "text": "खिचड़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Rice and urad dal cooked together, eaten and offered at Makar Sankranti, which UP calls Khichdi.",
+  "ingredients": [
+    "rice",
+    "urad dal",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

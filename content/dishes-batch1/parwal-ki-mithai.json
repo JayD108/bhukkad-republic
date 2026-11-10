@@ -1,0 +1,42 @@
+{
+  "slug": "parwal-ki-mithai",
+  "name": "Parwal ki mithai",
+  "local_names": [
+    {
+      "text": "परवल की मिठाई",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Pointed gourd candied in syrup and stuffed with khoya and dry fruit.",
+  "ingredients": [
+    "pointed gourd",
+    "khoya",
+    "sugar",
+    "dry fruit"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

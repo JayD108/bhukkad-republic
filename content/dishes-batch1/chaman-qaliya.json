@@ -1,0 +1,37 @@
+{
+  "slug": "chaman-qaliya",
+  "name": "Chaman qaliya",
+  "local_names": [
+    {
+      "text": "चमन क़लिया",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Paneer pieces in a turmeric and milk gravy with fennel and dry ginger. A Kashmiri Pandit dish.",
+  "ingredients": [
+    "paneer",
+    "milk",
+    "turmeric",
+    "fennel",
+    "dry ginger"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

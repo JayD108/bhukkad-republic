@@ -1,0 +1,42 @@
+{
+  "slug": "pushkar-malpua",
+  "name": "Pushkar malpua",
+  "local_names": [
+    {
+      "text": "पुष्कर मालपुआ",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Thick, crisp-edged malpua fried in ghee and soaked in syrup, sold in Pushkar.",
+  "ingredients": [
+    "refined flour",
+    "milk",
+    "ghee",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

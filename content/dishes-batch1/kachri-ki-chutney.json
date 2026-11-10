@@ -1,0 +1,41 @@
+{
+  "slug": "kachri-ki-chutney",
+  "name": "Kachri ki chutney",
+  "local_names": [
+    {
+      "text": "कचरी की चटनी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Tangy chutney of dried kachri, a small wild desert melon.",
+  "ingredients": [
+    "kachri",
+    "red chilli",
+    "garlic"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mahura",
+  "name": "Mahura",
+  "local_names": [
+    {
+      "text": "ମହୁରା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Mixed vegetables cooked with lentil badi, tamarind and jaggery.",
+  "ingredients": [
+    "mixed vegetables",
+    "badi",
+    "tamarind",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

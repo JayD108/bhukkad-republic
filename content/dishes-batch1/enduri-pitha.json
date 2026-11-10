@@ -1,0 +1,42 @@
+{
+  "slug": "enduri-pitha",
+  "name": "Enduri pitha",
+  "local_names": [
+    {
+      "text": "ଏଣ୍ଡୁରି ପିଠା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Rice cake steamed in turmeric leaves, made for Prathamastami.",
+  "ingredients": [
+    "rice",
+    "urad dal",
+    "coconut",
+    "turmeric leaf"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

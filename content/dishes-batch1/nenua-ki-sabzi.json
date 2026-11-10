@@ -1,0 +1,41 @@
+{
+  "slug": "nenua-ki-sabzi",
+  "name": "Nenua ki sabzi",
+  "local_names": [
+    {
+      "text": "नेनुआ की सब्ज़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Sponge gourd cooked with fenugreek seeds and green chilli.",
+  "ingredients": [
+    "sponge gourd",
+    "fenugreek seed",
+    "green chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

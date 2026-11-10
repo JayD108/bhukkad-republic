@@ -1,0 +1,36 @@
+{
+  "slug": "al-yakhni",
+  "name": "Al yakhni",
+  "local_names": [
+    {
+      "text": "अल यख़नी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Bottle gourd cooked in a yogurt gravy with fennel and dried mint.",
+  "ingredients": [
+    "bottle gourd",
+    "yogurt",
+    "fennel",
+    "dried mint"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

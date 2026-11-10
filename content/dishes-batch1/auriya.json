@@ -1,0 +1,35 @@
+{
+  "slug": "auriya",
+  "name": "Auriya",
+  "local_names": [
+    {
+      "text": "औरिया",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A Dogra side of fermented yogurt with mustard and boondi or vegetables.",
+  "ingredients": [
+    "yogurt",
+    "mustard seed",
+    "boondi"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

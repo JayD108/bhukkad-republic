@@ -1,0 +1,40 @@
+{
+  "slug": "narikolor-laru",
+  "name": "Narikolor laru",
+  "local_names": [
+    {
+      "text": "নাৰিকলৰ লাৰু",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Coconut and jaggery balls made for Bihu.",
+  "ingredients": [
+    "coconut",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

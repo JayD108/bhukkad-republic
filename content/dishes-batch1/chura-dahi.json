@@ -1,0 +1,41 @@
+{
+  "slug": "chura-dahi",
+  "name": "Chura dahi",
+  "local_names": [
+    {
+      "text": "चूड़ा दही",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Flattened rice with curd and jaggery or sugar. The traditional meal of Makar Sankranti.",
+  "ingredients": [
+    "flattened rice",
+    "curd",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

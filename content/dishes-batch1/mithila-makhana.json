@@ -1,0 +1,46 @@
+{
+  "slug": "mithila-makhana",
+  "name": "Mithila makhana",
+  "local_names": [
+    {
+      "text": "मिथिला मखाना",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Fox nuts, roasted plain or with ghee and spices. Mithila Makhana carries a GI tag.",
+  "ingredients": [
+    "fox nut",
+    "ghee"
+  ],
+  "origin": {
+    "label": "DOCUMENTED",
+    "text": "Registered as a Geographical Indication as Mithila Makhana.",
+    "citations": [
+      {
+        "source_id": "zeebiz-mithila-makhana-gi",
+        "url": "https://zeebiz.com/india/news-mithila-makhana-gets-gi-tag-expected-to-boost-industry-in-bihar-what-you-need-to-know-about-this-auspicious-ingredient-194952",
+        "title": "Mithila Makhana gets GI tag (Zee Business)"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "zeebiz-mithila-makhana-gi",
+      "url": "https://zeebiz.com/india/news-mithila-makhana-gets-gi-tag-expected-to-boost-industry-in-bihar-what-you-need-to-know-about-this-auspicious-ingredient-194952",
+      "title": "Mithila Makhana gets GI tag (Zee Business)"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

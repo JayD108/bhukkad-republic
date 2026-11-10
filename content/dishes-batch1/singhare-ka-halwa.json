@@ -1,0 +1,35 @@
+{
+  "slug": "singhare-ka-halwa",
+  "name": "Singhare ka halwa",
+  "local_names": [
+    {
+      "text": "सिंघाड़े का हलवा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Water-chestnut flour roasted in ghee and sweetened. A fasting-day sweet.",
+  "ingredients": [
+    "water chestnut flour",
+    "ghee",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

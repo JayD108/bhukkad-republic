@@ -1,0 +1,35 @@
+{
+  "slug": "kakharu-phula-bhaja",
+  "name": "Kakharu phula bhaja",
+  "local_names": [
+    {
+      "text": "କଖାରୁ ଫୁଲ ଭଜା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Pumpkin flowers dipped in rice-flour batter and fried.",
+  "ingredients": [
+    "pumpkin flower",
+    "rice flour",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

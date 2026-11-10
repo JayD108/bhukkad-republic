@@ -1,0 +1,43 @@
+{
+  "slug": "jodhpuri-kabuli",
+  "name": "Jodhpuri kabuli",
+  "local_names": [
+    {
+      "text": "जोधपुरी काबुली",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "A layered vegetable pulao baked with bread pieces and dry fruit, from Jodhpur.",
+  "ingredients": [
+    "rice",
+    "vegetables",
+    "bread",
+    "dry fruit",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

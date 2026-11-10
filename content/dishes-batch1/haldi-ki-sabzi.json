@@ -1,0 +1,42 @@
+{
+  "slug": "haldi-ki-sabzi",
+  "name": "Haldi ki sabzi",
+  "local_names": [
+    {
+      "text": "हल्दी की सब्ज़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "A winter dish of fresh turmeric root cooked in plenty of ghee with yogurt and peas.",
+  "ingredients": [
+    "fresh turmeric",
+    "ghee",
+    "yogurt",
+    "peas"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

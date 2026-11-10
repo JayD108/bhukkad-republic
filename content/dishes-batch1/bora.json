@@ -1,0 +1,35 @@
+{
+  "slug": "bora",
+  "name": "Bora",
+  "local_names": [
+    {
+      "text": "বোরা",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "manipur"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Fritters of vegetables or herbs in gram-flour batter, a Manipuri tea-time snack.",
+  "ingredients": [
+    "vegetables",
+    "chickpea flour",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

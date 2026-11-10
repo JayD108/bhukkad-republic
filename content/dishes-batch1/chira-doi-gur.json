@@ -1,0 +1,41 @@
+{
+  "slug": "chira-doi-gur",
+  "name": "Chira doi gur",
+  "local_names": [
+    {
+      "text": "চিৰা দৈ গুড়",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "assam"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Flattened rice with curd and jaggery, eaten as jolpan (breakfast) at Bihu.",
+  "ingredients": [
+    "flattened rice",
+    "curd",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-assamese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Assamese_cuisine",
+      "title": "Assamese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

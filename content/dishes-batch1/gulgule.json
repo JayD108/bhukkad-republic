@@ -1,0 +1,35 @@
+{
+  "slug": "gulgule",
+  "name": "Gulgule",
+  "local_names": [
+    {
+      "text": "गुलगुले",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Small fried fritters of wheat flour and jaggery, made for festivals.",
+  "ingredients": [
+    "wheat flour",
+    "jaggery",
+    "fennel"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

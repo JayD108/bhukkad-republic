@@ -1,0 +1,42 @@
+{
+  "slug": "kaju-ker-dakh",
+  "name": "Kaju ker dakh",
+  "local_names": [
+    {
+      "text": "काजू केर दाख",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Ker berries cooked with cashews and raisins in a yogurt gravy, a festive Marwari dish.",
+  "ingredients": [
+    "ker berry",
+    "cashew",
+    "raisin",
+    "yogurt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

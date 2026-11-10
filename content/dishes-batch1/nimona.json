@@ -1,0 +1,35 @@
+{
+  "slug": "nimona",
+  "name": "Nimona",
+  "local_names": [
+    {
+      "text": "निमोना",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A curry of mashed fresh green peas with potato, a Purvanchal winter dish.",
+  "ingredients": [
+    "green peas",
+    "potato",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

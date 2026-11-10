@@ -1,0 +1,41 @@
+{
+  "slug": "bejad-roti",
+  "name": "Bejad roti",
+  "local_names": [
+    {
+      "text": "बेजड़ रोटी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Multigrain flatbread of wheat, barley or jowar and gram flour.",
+  "ingredients": [
+    "wheat",
+    "jowar",
+    "chickpea flour"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

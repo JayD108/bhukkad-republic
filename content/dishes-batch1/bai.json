@@ -1,0 +1,37 @@
+{
+  "slug": "bai",
+  "name": "Bai",
+  "local_names": [],
+  "state_ids": [
+    "mizoram"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Mizo vegetable stew of herbs, beans and ferns, made with bekang (fermented soybean) in the vegetarian version.",
+  "ingredients": [
+    "beans",
+    "ferns",
+    "herbs",
+    "bekang"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-mizo-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Mizo_cuisine",
+      "title": "Mizo cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

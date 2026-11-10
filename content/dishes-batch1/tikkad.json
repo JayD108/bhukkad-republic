@@ -1,0 +1,42 @@
+{
+  "slug": "tikkad",
+  "name": "Tikkad",
+  "local_names": [
+    {
+      "text": "टिक्कड़",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A thick flatbread of mixed flours with onion, tomato or radish kneaded into the dough.",
+  "ingredients": [
+    "wheat flour",
+    "millet",
+    "onion",
+    "tomato"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "kandi-kulcha",
+  "name": "Kandi kulcha",
+  "local_names": [
+    {
+      "text": "कांदी कुल्चा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Small, crumbly bread made with butter, sugar and poppy seeds, dipped into tea.",
+  "ingredients": [
+    "refined flour",
+    "butter",
+    "sugar",
+    "poppy seed"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "babribyol-sharbat",
+  "name": "Babribyol sharbat",
+  "local_names": [
+    {
+      "text": "बब्रिब्योल शरबत",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Sweetened milk with rose water and soaked sweet basil seeds.",
+  "ingredients": [
+    "milk",
+    "basil seed",
+    "rose water"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

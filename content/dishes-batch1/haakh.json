@@ -1,0 +1,42 @@
+{
+  "slug": "haakh",
+  "name": "Haakh",
+  "local_names": [
+    {
+      "text": "हाख",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Collard greens cooked whole in plenty of water and finished with mustard oil, eaten with rice almost daily in Kashmir.",
+  "ingredients": [
+    "collard greens",
+    "mustard oil",
+    "dried chilli",
+    "asafoetida"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

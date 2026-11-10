@@ -1,0 +1,41 @@
+{
+  "slug": "rajasthani-gathiya",
+  "name": "Rajasthani gathiya",
+  "local_names": [
+    {
+      "text": "राजस्थानी गाठिया",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Thick, soft gram-flour sticks spiced with ajwain and black pepper.",
+  "ingredients": [
+    "chickpea flour",
+    "ajwain",
+    "black pepper"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

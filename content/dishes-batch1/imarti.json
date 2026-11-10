@@ -1,0 +1,35 @@
+{
+  "slug": "imarti",
+  "name": "Imarti",
+  "local_names": [
+    {
+      "text": "इमरती",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Flower-shaped fried urad-dal spirals soaked in syrup. Jaunpur is known for it.",
+  "ingredients": [
+    "urad dal",
+    "sugar",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

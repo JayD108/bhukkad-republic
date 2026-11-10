@@ -1,0 +1,35 @@
+{
+  "slug": "mujh-chetin",
+  "name": "Mujh chetin",
+  "local_names": [
+    {
+      "text": "मुज चेटिन",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Raw radish chutney with walnut, curd or green chilli.",
+  "ingredients": [
+    "radish",
+    "walnut",
+    "green chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

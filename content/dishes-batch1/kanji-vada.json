@@ -1,0 +1,41 @@
+{
+  "slug": "kanji-vada",
+  "name": "Kanji vada",
+  "local_names": [
+    {
+      "text": "कांजी वड़ा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Moong-dal vadas soaked in a sour, fermented mustard water. Made for Holi.",
+  "ingredients": [
+    "moong dal",
+    "mustard seed",
+    "water"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

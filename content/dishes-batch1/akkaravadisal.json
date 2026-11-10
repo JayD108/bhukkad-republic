@@ -1,0 +1,42 @@
+{
+  "slug": "akkaravadisal",
+  "name": "Akkaravadisal",
+  "local_names": [
+    {
+      "text": "அக்காரவடிசல்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Rice and dal cooked in milk with jaggery and ghee, a temple sweet.",
+  "ingredients": [
+    "rice",
+    "moong dal",
+    "milk",
+    "jaggery"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

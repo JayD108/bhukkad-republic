@@ -1,0 +1,42 @@
+{
+  "slug": "badi-chura",
+  "name": "Badi chura",
+  "local_names": [
+    {
+      "text": "ବଡ଼ି ଚୂରା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Fried sun-dried lentil dumplings crushed with onion, garlic, green chilli and mustard oil.",
+  "ingredients": [
+    "badi",
+    "onion",
+    "garlic",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

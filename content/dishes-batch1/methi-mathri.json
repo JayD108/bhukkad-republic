@@ -1,0 +1,42 @@
+{
+  "slug": "methi-mathri",
+  "name": "Methi mathri",
+  "local_names": [
+    {
+      "text": "मेथी मठरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Flaky fried crackers of flour with dried fenugreek leaves, eaten with tea and pickle.",
+  "ingredients": [
+    "refined flour",
+    "dried fenugreek",
+    "ajwain",
+    "oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

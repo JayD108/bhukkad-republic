@@ -1,0 +1,157 @@
+{
+  "_note": "Original, light-hearted student lore written for the Hostel Pradesh section of this design concept. It is NOT researched food history: no dates, no origin claims, no sources. Every dish is marked 'lore' on the page. Not part of the strict content/ files used by the Astro site.",
+  "state": {
+    "id": "hostel",
+    "slug": "hostel",
+    "name": "Hostel Pradesh",
+    "code": "HST",
+    "local_name": { "text": "हॉस्टल प्रदेश", "script": "Devanagari", "lang": "hi", "translit": "hostel pradesh" },
+    "status": "WARDEN ALERT",
+    "grid": { "col": 0, "row": 0 },
+    "intro": "Welcome to Hostel Pradesh, the capital of the Bhukkad Republic and its most crowded state. Official language: \"bhai, kuch hai kya khane ko?\" Main export: Maggi. Main import: care packages from home. Here the kettle is a kitchen and the warden is the final boss."
+  },
+  "dishes": [
+    {
+      "id": "kettle-maggi", "name": "Kettle Maggi", "native": "केतली मैगी", "category": "snack", "device": "Electric kettle", "chaos": 3,
+      "summary": "Instant noodles cooked straight in the electric kettle. The dish that taught a whole generation to share a kettle, and a secret.",
+      "ingredients": ["instant noodles", "water", "masala sachet"],
+      "steps": [
+        "Boil water in the kettle, then switch it off and unplug it.",
+        "Break the noodle cake into the hot water, close the lid and wait about four minutes.",
+        "Pour most of the water into the sink, add the masala sachet and stir with a clean spoon.",
+        "Wash the kettle straight away, or tomorrow's chai will taste of Maggi."
+      ]
+    },
+    {
+      "id": "cheese-maggi", "name": "Cheese Maggi", "native": "चीज़ मैगी", "category": "snack", "device": "Pan or kettle", "chaos": 2,
+      "summary": "Plain Maggi, promoted. One cheese slice and a spoon of butter turn a Tuesday into a celebration.",
+      "ingredients": ["instant noodles", "water", "masala sachet", "cheese slice", "butter"],
+      "steps": [
+        "Cook the noodles with the masala sachet and a little less water than usual.",
+        "While it is still hot, stir in the butter and tear the cheese slice into it.",
+        "Stir until the cheese melts into a glossy sauce, then eat it before anyone smells it."
+      ]
+    },
+    {
+      "id": "maggi-sandwich", "name": "Maggi Sandwich", "native": "मैगी सैंडविच", "category": "snack", "device": "Sandwich toaster or tawa", "chaos": 3,
+      "summary": "Leftover Maggi packed between two slices of bread. Carbs inside carbs, a hostel classic.",
+      "ingredients": ["leftover Maggi", "bread slices", "butter"],
+      "steps": [
+        "Butter the outside of two bread slices.",
+        "Pile cooled Maggi on one slice, close with the other and press down.",
+        "Toast on both sides until golden and crisp."
+      ]
+    },
+    {
+      "id": "kettle-khichdi", "name": "Kettle Khichdi", "native": "केतली खिचड़ी", "category": "main", "device": "Electric kettle", "chaos": 4,
+      "summary": "Rice and moong dal cooked in a kettle, in rounds. It takes patience, three boils and a very understanding roommate.",
+      "ingredients": ["rice", "moong dal", "turmeric", "salt", "water", "ghee"],
+      "steps": [
+        "Rinse a small handful of rice and moong dal until the water runs clear.",
+        "Put them in the kettle with turmeric, salt and plenty of water. Do not fill past the max line.",
+        "Boil, switch off, wait ten minutes, then boil again. Repeat until the rice is soft.",
+        "Unplug it before opening the lid. Tip into a bowl and add a spoon of ghee if the care package has any."
+      ]
+    },
+    {
+      "id": "hot-water-poha", "name": "Hot-Water Poha", "native": "गरम पानी पोहा", "category": "breakfast", "device": "Kettle and mug", "chaos": 1,
+      "summary": "Poha that needs no stove, only hot water and hope. Breakfast for people who woke up six minutes before class.",
+      "ingredients": ["poha", "hot water", "peanuts", "onion", "green chilli", "lemon", "salt", "turmeric"],
+      "steps": [
+        "Rinse the poha quickly, then soak it in hot kettle water for two minutes.",
+        "Drain, then stir in salt and a pinch of turmeric.",
+        "Top with chopped onion, green chilli, peanuts and a squeeze of lemon."
+      ]
+    },
+    {
+      "id": "kettle-upma", "name": "Kettle Upma", "native": "केतली उपमा", "category": "breakfast", "device": "Electric kettle", "chaos": 3,
+      "summary": "Rava and hot water, stirred until it stops being soup. A little loose, completely sincere.",
+      "ingredients": ["semolina (rava)", "hot water", "onion", "green chilli", "salt"],
+      "steps": [
+        "Pour hot kettle water over the rava in a steel bowl, a little at a time, stirring all the while.",
+        "Cover with a plate and wait five minutes.",
+        "Stir in chopped onion, green chilli and salt."
+      ]
+    },
+    {
+      "id": "kettle-chai", "name": "Kettle Chai", "native": "केतली चाय", "category": "drink", "device": "Electric kettle", "chaos": 1,
+      "summary": "The real hero of every hostel floor. Brewed at midnight, shared with anyone who walks past the door.",
+      "ingredients": ["water", "tea leaves", "sugar", "milk", "ginger"],
+      "steps": [
+        "Boil water in the kettle with the tea leaves, sugar and a little crushed ginger.",
+        "Switch off, add warm milk and let it sit for a minute.",
+        "Strain into as many mugs as there are visitors."
+      ]
+    },
+    {
+      "id": "bread-butter-chini", "name": "Bread-Butter-Chini", "native": "ब्रेड बटर चीनी", "category": "snack", "device": "None", "chaos": 1,
+      "summary": "Zero cooking. Bread, butter, a sprinkle of sugar. Maximum comfort.",
+      "ingredients": ["bread", "butter", "sugar"],
+      "steps": [
+        "Butter a slice of bread.",
+        "Sprinkle sugar on top.",
+        "Fold it, eat it, and feel eight years old again."
+      ]
+    },
+    {
+      "id": "hostel-sattu-sharbat", "name": "Sattu Sharbat", "native": "सत्तू शरबत", "category": "drink", "device": "Glass and spoon", "chaos": 1,
+      "summary": "Roasted gram flour stirred into cold water. The exam-week energy drink that needs no appliance at all.",
+      "ingredients": ["sattu (roasted gram flour)", "water", "lemon", "black salt", "roasted cumin"],
+      "steps": [
+        "Stir two spoons of sattu into a glass of cold water until no lumps remain.",
+        "Add a squeeze of lemon, a pinch of black salt and roasted cumin.",
+        "Drink it fast, before the lumps come back."
+      ]
+    },
+    {
+      "id": "hostel-bhel", "name": "Hostel Bhel", "native": "हॉस्टल भेल", "category": "snack", "device": "Steel plate", "chaos": 1,
+      "summary": "Made from whatever survived the care package: namkeen, puffed rice, one lonely onion and a lemon.",
+      "ingredients": ["namkeen", "puffed rice (murmura)", "onion", "tomato", "green chilli", "lemon", "salt"],
+      "steps": [
+        "Mix the puffed rice and namkeen on a steel plate.",
+        "Add chopped onion, tomato and green chilli.",
+        "Finish with lemon and salt, and eat fast so it stays crisp."
+      ]
+    },
+    {
+      "id": "mess-dal-maggi", "name": "Mess-Dal Maggi", "native": "मेस दाल मैगी", "category": "main", "device": "Pan or kettle", "chaos": 3,
+      "summary": "Yesterday's mess dal meets today's Maggi. Nobody planned it, everybody secretly loves it.",
+      "ingredients": ["instant noodles", "leftover dal", "masala sachet"],
+      "steps": [
+        "Warm the leftover dal with a splash of water.",
+        "Add the noodles and cook until soft.",
+        "Stir in half the masala sachet, because the dal already has opinions."
+      ]
+    },
+    {
+      "id": "roti-pizza", "name": "Roti Pizza", "native": "रोटी पिज़्ज़ा", "category": "snack", "device": "Tawa", "chaos": 2,
+      "summary": "A leftover roti with ambitions. Ketchup for sauce, a cheese slice for glory.",
+      "ingredients": ["leftover roti", "tomato ketchup", "cheese slice", "onion", "capsicum"],
+      "steps": [
+        "Warm the roti on a tawa.",
+        "Spread ketchup, add chopped onion and capsicum, and lay the cheese on top.",
+        "Cover and heat until the cheese melts."
+      ]
+    },
+    {
+      "id": "jam-toast", "name": "Jam Toast", "native": "जैम टोस्ट", "category": "breakfast", "device": "Toaster or tawa", "chaos": 1,
+      "summary": "Toast, butter, jam. The breakfast that never lets you down and never asks questions.",
+      "ingredients": ["bread", "butter", "jam"],
+      "steps": [
+        "Toast the bread.",
+        "Spread butter while it is hot, then jam.",
+        "Eat standing up, while looking for your other shoe."
+      ]
+    },
+    {
+      "id": "mess-aloo-sandwich", "name": "Mess Aloo Sandwich", "native": "मेस आलू सैंडविच", "category": "snack", "device": "Tawa", "chaos": 2,
+      "summary": "Last night's dry aloo sabzi, rescued into a sandwich with ketchup. A comeback story.",
+      "ingredients": ["leftover aloo sabzi", "bread slices", "butter", "tomato ketchup"],
+      "steps": [
+        "Mash the leftover aloo sabzi slightly and spread it on a buttered bread slice.",
+        "Add ketchup, close with a second slice.",
+        "Toast on a tawa until both sides are crisp."
+      ]
+    }
+  ]
+}

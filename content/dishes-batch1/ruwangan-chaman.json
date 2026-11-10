@@ -1,0 +1,36 @@
+{
+  "slug": "ruwangan-chaman",
+  "name": "Ruwangan chaman",
+  "local_names": [
+    {
+      "text": "रुवांगन चमन",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Fried paneer in a tomato gravy.",
+  "ingredients": [
+    "paneer",
+    "tomato",
+    "fennel",
+    "Kashmiri chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

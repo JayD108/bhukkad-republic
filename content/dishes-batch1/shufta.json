@@ -1,0 +1,36 @@
+{
+  "slug": "shufta",
+  "name": "Shufta",
+  "local_names": [
+    {
+      "text": "शुफ्ता",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Dry fruit and paneer cooked in sugar syrup with spices, a Kashmiri Pandit sweet.",
+  "ingredients": [
+    "dry fruit",
+    "paneer",
+    "sugar",
+    "dry ginger"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

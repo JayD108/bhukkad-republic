@@ -1,0 +1,42 @@
+{
+  "slug": "makuni",
+  "name": "Makuni",
+  "local_names": [
+    {
+      "text": "मकुनी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "bread",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A thick roti stuffed with spiced sattu, cooked on a griddle or over coals.",
+  "ingredients": [
+    "wheat flour",
+    "sattu",
+    "mustard oil",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

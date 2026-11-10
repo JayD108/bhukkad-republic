@@ -1,0 +1,36 @@
+{
+  "slug": "raja-mircha-chutney",
+  "name": "Raja mircha chutney",
+  "local_names": [],
+  "state_ids": [
+    "nagaland"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Fiery chutney of king chilli, served with every Naga meal.",
+  "ingredients": [
+    "king chilli",
+    "tomato",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-naga-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Naga_cuisine",
+      "title": "Naga cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

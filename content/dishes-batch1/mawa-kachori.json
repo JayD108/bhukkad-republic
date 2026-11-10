@@ -1,0 +1,43 @@
+{
+  "slug": "mawa-kachori",
+  "name": "Mawa kachori",
+  "local_names": [
+    {
+      "text": "मावा कचौरी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A sweet kachori stuffed with khoya and dry fruit, fried and dipped in sugar syrup. Associated with Jodhpur.",
+  "ingredients": [
+    "refined flour",
+    "khoya",
+    "dry fruit",
+    "sugar",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "phirin",
+  "name": "Phirin",
+  "local_names": [
+    {
+      "text": "फिरिन",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Ground-rice pudding set in clay bowls, a Ramadan and wedding sweet.",
+  "ingredients": [
+    "rice",
+    "milk",
+    "sugar",
+    "cardamom"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-kashmiri-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Kashmiri_cuisine",
+      "title": "Kashmiri cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

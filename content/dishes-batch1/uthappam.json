@@ -1,0 +1,42 @@
+{
+  "slug": "uthappam",
+  "name": "Uthappam",
+  "local_names": [
+    {
+      "text": "ஊத்தப்பம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A thick, soft dosa topped with onion, tomato or chilli.",
+  "ingredients": [
+    "rice",
+    "urad dal",
+    "onion",
+    "tomato"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

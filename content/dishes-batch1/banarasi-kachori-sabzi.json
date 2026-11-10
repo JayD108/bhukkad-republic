@@ -1,0 +1,42 @@
+{
+  "slug": "banarasi-kachori-sabzi",
+  "name": "Banarasi kachori sabzi",
+  "local_names": [
+    {
+      "text": "बनारसी कचौरी सब्ज़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "breakfast",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Small fried kachoris stuffed with spiced urad dal, served with a thin potato curry. A Varanasi morning staple, often followed by jalebi.",
+  "ingredients": [
+    "urad dal",
+    "wheat flour",
+    "potato",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-up-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Cuisine_of_Uttar_Pradesh",
+      "title": "Cuisine of Uttar Pradesh"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

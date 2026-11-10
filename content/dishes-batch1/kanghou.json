@@ -1,0 +1,41 @@
+{
+  "slug": "kanghou",
+  "name": "Kanghou",
+  "local_names": [
+    {
+      "text": "কাংহৌ",
+      "script": "Bengali-Assamese"
+    }
+  ],
+  "state_ids": [
+    "manipur"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Vegetables stir-fried in oil with spices.",
+  "ingredients": [
+    "seasonal vegetables",
+    "oil",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-meitei-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Meitei_cuisine",
+      "title": "Meitei cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

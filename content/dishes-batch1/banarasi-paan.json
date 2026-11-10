@@ -1,0 +1,36 @@
+{
+  "slug": "banarasi-paan",
+  "name": "Banarasi paan",
+  "local_names": [
+    {
+      "text": "बनारसी पान",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Betel leaf folded around fillings such as gulkand, fennel and coconut. Sweet paan has no tobacco.",
+  "ingredients": [
+    "betel leaf",
+    "gulkand",
+    "fennel",
+    "coconut"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

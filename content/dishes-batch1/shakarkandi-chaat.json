@@ -1,0 +1,35 @@
+{
+  "slug": "shakarkandi-chaat",
+  "name": "Shakarkandi chaat",
+  "local_names": [
+    {
+      "text": "शकरकंदी चाट",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Roasted sweet potato tossed with lemon, chaat masala and black salt. A winter street snack.",
+  "ingredients": [
+    "sweet potato",
+    "lemon",
+    "chaat masala"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

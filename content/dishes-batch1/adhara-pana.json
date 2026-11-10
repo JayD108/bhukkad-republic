@@ -1,0 +1,42 @@
+{
+  "slug": "adhara-pana",
+  "name": "Adhara pana",
+  "local_names": [
+    {
+      "text": "ଅଧର ପଣା",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A sweet milk-and-chhena drink offered to the deities at the end of Ratha Yatra.",
+  "ingredients": [
+    "milk",
+    "chhena",
+    "sugar",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

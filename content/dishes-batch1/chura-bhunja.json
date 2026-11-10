@@ -1,0 +1,42 @@
+{
+  "slug": "chura-bhunja",
+  "name": "Chura bhunja",
+  "local_names": [
+    {
+      "text": "चूड़ा भूंजा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Flattened rice roasted with peanuts, onion and spices. An evening snack.",
+  "ingredients": [
+    "flattened rice",
+    "peanut",
+    "onion",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "pakhala",
+  "name": "Pakhala",
+  "local_names": [
+    {
+      "text": "ପଖାଳ",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Cooked rice soaked in water, sometimes with curd, eaten fresh or lightly fermented with fried and mashed sides. A summer meal; 20 March is celebrated as Pakhala Dibasa.",
+  "ingredients": [
+    "rice",
+    "water",
+    "curd"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

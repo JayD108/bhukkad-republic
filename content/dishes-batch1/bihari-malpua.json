@@ -1,0 +1,42 @@
+{
+  "slug": "bihari-malpua",
+  "name": "Bihari malpua",
+  "local_names": [
+    {
+      "text": "मालपुआ",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "sweet",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Fried pancakes of flour, milk and mashed banana, soaked in syrup. Made for Holi.",
+  "ingredients": [
+    "refined flour",
+    "milk",
+    "banana",
+    "sugar"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "navratan-korma",
+  "name": "Navratan korma",
+  "local_names": [
+    {
+      "text": "नवरत्न कोरमा",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A mild, rich korma of nine vegetables, fruit and nuts in a cream sauce.",
+  "ingredients": [
+    "mixed vegetables",
+    "cream",
+    "cashew",
+    "fruit"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-awadhi-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Awadhi_cuisine",
+      "title": "Awadhi cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

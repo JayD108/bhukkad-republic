@@ -1,0 +1,41 @@
+{
+  "slug": "veg-momo",
+  "name": "Veg momo",
+  "local_names": [
+    {
+      "text": "मोमो",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "sikkim"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Steamed dumplings filled with cabbage, chayote or other vegetables, eaten with tomato achar.",
+  "ingredients": [
+    "refined flour",
+    "cabbage",
+    "chayote"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-sikkimese-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Sikkimese_cuisine",
+      "title": "Sikkimese cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

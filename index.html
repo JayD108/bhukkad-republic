@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Bhukkad Republic · a fun food country</title>
+  <meta name="description" content="The Bhukkad Republic is a fun, imaginary food country. Post what you cooked or ate, read how dishes began, and catch the Daily Tadka." />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Bhukkad Republic · a fun food country" />
+  <meta property="og:description" content="Post what you cooked or ate, read how your favourite dishes began, and catch the latest in the Daily Tadka. Just for fun." />
+  <meta property="og:image" content="og.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="stylesheet" href="fonts.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="theme-color" content="#ffd23f" />
+  <script>try{var t=localStorage.getItem("bhukkad.theme")||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");document.documentElement.setAttribute("data-theme",t);}catch(e){}</script>
+</head>
+<body>
+  <!-- A rough-edged ink filter, used by every stamp so they look pressed on, not printed. -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <filter id="rough" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="4" result="n" />
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="2.2" />
+    </filter>
+  </svg>
+
+  <a class="skip" href="#app">Skip to content</a>
+  <header class="top">
+    <a class="brand" href="#/" aria-label="Bhukkad Republic, home">
+      <span class="brand-mark" aria-hidden="true">✈</span>
+      <span class="brand-txt"><b>BHUKKAD REPUBLIC</b><small>a fun food country</small></span>
+    </a>
+    <nav aria-label="Main">
+      <a href="#/dishes" data-nav="dishes" class="nav-explore">Dish files</a>
+      <a href="#/chowk" data-nav="chowk" class="nav-chowk">Chowk</a>
+      <a href="#/parliament" data-nav="parliament" class="nav-parl">Parliament</a>
+      <a href="#/fun" data-nav="fun" class="nav-fun">Fun</a>
+      <a href="#/passport" data-nav="passport" class="nav-me">My Passport</a>
+      <button id="themebtn" class="searchlink" type="button" aria-label="Dark mode" aria-pressed="false"><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4 8.5 8.5 0 1 0 20 14.5Z" fill="currentColor"/></svg></button>
+      <a class="searchlink" href="#/search" data-nav="search" aria-label="Search dishes" title="Search dishes">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.6"/><path d="m15.5 15.5 5.5 5.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></svg>
+      </a>
+    </nav>
+  </header>
+
+  <main id="app" tabindex="-1"></main>
+
+  <footer class="foot">
+    <div class="wrap foot-grid">
+      <div id="foot-seal" aria-hidden="true"></div>
+      <div>
+        <div class="foot-title">THE BHUKKAD REPUBLIC</div>
+        <div class="foot-motto">Jeene ke liye nahi, khaane ke liye jeena hai.</div>
+        <p class="legalnote"><b>Just for fun.</b> The Bhukkad Republic is an imaginary food country made for fun. It is not a real country, government, political party or official body, and nothing here is a travel, identity or legal document. We respect every nation's sovereignty and food heritage. Facts carry a stamp and a source. <a href="#/about">Fine print</a></p>
+        <p class="foot-links"><a href="#/about">About and fine print</a> · <a href="#/chowk">Chowk</a> · <a href="#/seats">The 50 seats</a> · <a href="#/parliament">Parliament · suggestion box</a> · <a href="#/dishes">Dish files</a> · <a href="#/myths">Daily Tadka</a> · <a href="#/quiz">Tests</a></p>
+        <span class="fine">Private design preview · data built <span id="built"></span></span>
+      </div>
+    </div>
+  <div class="cmd-tag">★ SUPREME COMMANDER · THE GREAT BHUKKAD ★</div>
+    <div class="fun-tag" role="note">★ JUST FOR FUN · AN IMAGINARY COUNTRY · NOT A REAL GOVERNMENT ★</div>
+  </footer>
+
+  <nav class="tabbar" aria-label="Quick links">
+    <a href="#/" data-tab="home"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 3 2 12h3v9h5v-6h4v6h5v-9h3L12 3Z" fill="currentColor"/></svg><span>Home</span></a>
+    <a href="#/chowk" data-tab="chowk"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 4h16v12H8l-4 4V4Z" fill="currentColor"/></svg><span>Chowk</span></a>
+    <a class="plus" href="#/chowk/new" aria-label="Post a plate"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M11 4h2v7h7v2h-7v7h-2v-7H4v-2h7V4Z" fill="currentColor"/></svg></a>
+    <a href="#/dishes" data-tab="dishes"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.500a2.500 2.500 0 0 1 0 5Z" fill="currentColor"/></svg><span>Dishes</span></a>
+    <a href="#/passport" data-tab="passport"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 3h14a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Zm7 4a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm-5 11h10v-1c0-1.700-3-2.500-5-2.500S7 15.300 7 17v1Z" fill="currentColor"/></svg><span>Passport</span></a>
+  </nav>
+
+  <dialog id="file" aria-labelledby="file-title"></dialog>
+
+  <script src="data.js"></script>
+  <script src="chowk-core.js"></script>
+  <script src="chowk.js"></script>
+  <script src="chowk-ui.js"></script>
+  <script src="seats.js"></script>
+  <script src="pages-info.js"></script>
+  <script src="about.js"></script>
+  <script src="plates.js"></script>
+  <script src="passport-ui.js"></script>
+  <script src="passport.js"></script>
+  <script src="theme.js"></script>
+  <script src="tadka.js"></script>
+  <script src="totop.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

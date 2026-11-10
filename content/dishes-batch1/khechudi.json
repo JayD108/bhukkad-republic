@@ -1,0 +1,42 @@
+{
+  "slug": "khechudi",
+  "name": "Khechudi",
+  "local_names": [
+    {
+      "text": "ଖେଚୁଡ଼ି",
+      "script": "Odia"
+    }
+  ],
+  "state_ids": [
+    "odisha"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Rice and lentils cooked with ghee. A plain version without onion or garlic is part of the Jagannath temple offering.",
+  "ingredients": [
+    "rice",
+    "moong dal",
+    "ghee",
+    "ginger"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-odia-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Odia_cuisine",
+      "title": "Odia cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

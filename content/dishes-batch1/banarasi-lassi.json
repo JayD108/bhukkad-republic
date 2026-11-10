@@ -1,0 +1,35 @@
+{
+  "slug": "banarasi-lassi",
+  "name": "Banarasi lassi",
+  "local_names": [
+    {
+      "text": "बनारसी लस्सी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "drink",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Thick sweet lassi in a clay cup, topped with malai and sometimes rabri.",
+  "ingredients": [
+    "yogurt",
+    "sugar",
+    "malai"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

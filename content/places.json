@@ -1,0 +1,198 @@
+[
+  {
+    "id": "lmb-jaipur",
+    "slug": "lmb-jaipur",
+    "name": "Laxmi Mishthan Bhandar (LMB)",
+    "city": "Jaipur",
+    "state_id": "rajasthan",
+    "lat": 26.9235,
+    "lng": 75.8267,
+    "location_precision": "area",
+    "address": "Johari Bazaar area, Jaipur (to be confirmed)",
+    "type": "shop",
+    "dish_ids": [
+      "ghewar"
+    ],
+    "price_band": "₹₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-ghevar"
+    ],
+    "famous_since": "Chhena ghevar since 1961"
+  },
+  {
+    "id": "thakur-pedha-dharwad",
+    "slug": "thakur-pedha-dharwad",
+    "name": "Babu Singh Thakur Pedha",
+    "city": "Dharwad",
+    "state_id": "karnataka",
+    "lat": 15.4589,
+    "lng": 75.0078,
+    "location_precision": "town",
+    "address": "Line Bazaar, Dharwad (to be confirmed)",
+    "type": "shop",
+    "dish_ids": [
+      "dharwad-peda"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-dharwad-pedha"
+    ],
+    "famous_since": "Family business, 19th century"
+  },
+  {
+    "id": "bedekar-pune",
+    "slug": "bedekar-pune",
+    "name": "Bedekar Misal",
+    "city": "Pune",
+    "state_id": "maharashtra",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "location_precision": "town",
+    "address": "Pune (exact address to be confirmed)",
+    "type": "restaurant",
+    "dish_ids": [
+      "misal-pav"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-misal-pav"
+    ]
+  },
+  {
+    "id": "mamledar-thane",
+    "slug": "mamledar-thane",
+    "name": "Mamledar Misal",
+    "city": "Thane",
+    "state_id": "maharashtra",
+    "lat": 19.1972,
+    "lng": 72.9722,
+    "location_precision": "town",
+    "address": "Thane (exact address to be confirmed)",
+    "type": "restaurant",
+    "dish_ids": [
+      "misal-pav"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-misal-pav"
+    ]
+  },
+  {
+    "id": "aaswad-mumbai",
+    "slug": "aaswad-mumbai",
+    "name": "Aaswad",
+    "city": "Mumbai",
+    "state_id": "maharashtra",
+    "lat": 19.0213,
+    "lng": 72.8424,
+    "location_precision": "area",
+    "address": "Dadar, Mumbai (exact address to be confirmed)",
+    "type": "restaurant",
+    "dish_ids": [
+      "misal-pav"
+    ],
+    "price_band": "₹₹",
+    "is_heritage": false,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-misal-pav"
+    ]
+  },
+  {
+    "id": "venkateswara-vilas",
+    "slug": "venkateswara-vilas",
+    "name": "Sri Venkateswara Vilas (formerly Lala Sweets)",
+    "city": "Srivilliputhur",
+    "state_id": "tamil-nadu",
+    "lat": 9.509,
+    "lng": 77.632,
+    "location_precision": "area",
+    "address": "Near the Andal temple, Srivilliputhur (to be confirmed)",
+    "type": "shop",
+    "dish_ids": [
+      "srivilliputtur-palkova"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "inkl-palkova"
+    ],
+    "famous_since": "c. 1921"
+  },
+  {
+    "id": "joga-lal-sah-almora",
+    "slug": "joga-lal-sah-almora",
+    "name": "Joga Lal Sah",
+    "city": "Almora",
+    "state_id": "uttarakhand",
+    "lat": 29.5971,
+    "lng": 79.6591,
+    "location_precision": "area",
+    "address": "Lal Bazaar, Almora (to be confirmed)",
+    "type": "shop",
+    "dish_ids": [
+      "bal-mithai"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-bal-mithai"
+    ],
+    "famous_since": "1865"
+  },
+  {
+    "id": "rautela-almora",
+    "slug": "rautela-almora",
+    "name": "Kheem Singh Mohan Singh Rautela",
+    "city": "Almora",
+    "state_id": "uttarakhand",
+    "lat": 29.594,
+    "lng": 79.656,
+    "location_precision": "town",
+    "address": "Near the bus station, Almora (to be confirmed)",
+    "type": "shop",
+    "dish_ids": [
+      "bal-mithai"
+    ],
+    "price_band": "₹",
+    "is_heritage": true,
+    "verified_on_date": null,
+    "verified_how": null,
+    "status": "unverified",
+    "origin": "editor",
+    "source_ids": [
+      "wp-bal-mithai"
+    ]
+  }
+]

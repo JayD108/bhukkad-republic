@@ -1,0 +1,37 @@
+{
+  "slug": "modur-pulav",
+  "name": "Modur pulav",
+  "local_names": [
+    {
+      "text": "मोदुर पुलाव",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Sweet saffron rice with dry fruit and ghee, cooked for celebrations.",
+  "ingredients": [
+    "rice",
+    "saffron",
+    "sugar",
+    "dry fruit",
+    "ghee"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

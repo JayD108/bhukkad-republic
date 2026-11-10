@@ -1,0 +1,36 @@
+{
+  "slug": "vadu-mangai",
+  "name": "Vadu mangai",
+  "local_names": [
+    {
+      "text": "வடு மாங்காய்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Tiny whole tender mangoes pickled in brine and chilli.",
+  "ingredients": [
+    "tender mango",
+    "mustard",
+    "red chilli",
+    "salt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

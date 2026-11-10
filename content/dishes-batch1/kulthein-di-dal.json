@@ -1,0 +1,34 @@
+{
+  "slug": "kulthein-di-dal",
+  "name": "Kulthein di dal",
+  "local_names": [
+    {
+      "text": "कुल्थें दी दाल",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "jammu-kashmir"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Horse gram cooked with spices, a Dogra winter dal.",
+  "ingredients": [
+    "horse gram",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

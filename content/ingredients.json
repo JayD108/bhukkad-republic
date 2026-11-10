@@ -1,0 +1,1749 @@
+[
+  {
+    "id": "chilli",
+    "slug": "chilli",
+    "name": "Chilli",
+    "local_names": [
+      {
+        "text": "मिर्च",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "mirch"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Peru and Bolivia; also domesticated in Mexico",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 7500 BCE",
+      "year_from": -7500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Chilli plants come from South America, around present-day Peru and Bolivia, and were also domesticated separately in east-central Mexico.",
+      "citations": [
+        {
+          "source_id": "wp-chili-pepper",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "16th century",
+      "year_from": 1500,
+      "year_to": 1600,
+      "label": "DOCUMENTED",
+      "text": "Chillies most likely reached India in the 1500s with Portuguese traders, who carried them to their trading posts, including Goa. How they then spread inland was never written down.",
+      "citations": [
+        {
+          "source_id": "wp-chili-pepper",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Portuguese traders via Goa (probable)"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "potato",
+    "slug": "potato",
+    "name": "Potato",
+    "local_names": [
+      {
+        "text": "आलू",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "aloo"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Andes, around Lake Titicaca",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "7,000–10,000 years ago",
+      "year_from": -7000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The potato was first domesticated in the Andes of southern Peru and north-western Bolivia.",
+      "citations": [
+        {
+          "source_id": "wp-potato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "17th century",
+      "year_from": 1600,
+      "year_to": 1700,
+      "label": "DOCUMENTED",
+      "text": "European travellers of the 1600s mention potatoes at a banquet in Ajmer and in vegetable gardens in Surat and Karnataka. British traders brought the crop to Bengal, where it was called alu.",
+      "citations": [
+        {
+          "source_id": "wp-history-potato",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "European traders"
+    },
+    "status": "published",
+    "last_reviewed_date": null,
+    "became_common": {
+      "era_label": "by c. 1800",
+      "year_from": 1780,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "By the end of the 18th century, potatoes were grown across the hill areas of northern India.",
+      "citations": [
+        {
+          "source_id": "wp-history-potato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    }
+  },
+  {
+    "id": "tomato",
+    "slug": "tomato",
+    "name": "Tomato",
+    "local_names": [
+      {
+        "text": "टमाटर",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "tamatar"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Western South America (exact place of domestication uncertain)",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 5000 BCE (uncertain)",
+      "year_from": -5000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The wild ancestor of the tomato grows in Chile, Peru and Ecuador. Where and when it was domesticated is still uncertain.",
+      "citations": [
+        {
+          "source_id": "wp-tomato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "1600s",
+      "year_from": 1600,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Tomatoes reached India in the 1600s through the Portuguese, but for about two centuries they rarely appeared in Indian cooking.",
+      "citations": [
+        {
+          "source_id": "goya-tomato",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Portuguese"
+    },
+    "status": "published",
+    "last_reviewed_date": null,
+    "became_common": {
+      "era_label": "20th century",
+      "year_from": 1900,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "In the 1800s tomatoes were grown mostly for Europeans in India. They entered Indian-language cookbooks in the early 1900s and became a mainstream base for gravies after independence.",
+      "citations": [
+        {
+          "source_id": "goya-tomato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    }
+  },
+  {
+    "id": "maize",
+    "slug": "maize",
+    "name": "Maize (corn)",
+    "local_names": [
+      {
+        "text": "मक्का",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "makka"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Balsas valley, southern Mexico",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 7000 BCE",
+      "year_from": -7000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Maize was domesticated from wild teosinte in southern Mexico about 9,000 years ago.",
+      "citations": [
+        {
+          "source_id": "wp-maize",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "after 1500 (disputed)",
+      "year_from": 1500,
+      "year_to": null,
+      "label": "DISPUTED",
+      "text": "The usual view is that maize spread to the Old World only after Columbus. A 1989 paper argued that 12th–13th-century Hoysala temple carvings in Karnataka show maize ears; other scholars say the carvings show a mythical pearl fruit (muktaphala) or a wish-granting tree. The question is still debated.",
+      "citations": [
+        {
+          "source_id": "wp-maize",
+          "locator": ""
+        },
+        {
+          "source_id": "osu-maize",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "peanut",
+    "slug": "peanut",
+    "name": "Peanut (groundnut)",
+    "local_names": [
+      {
+        "text": "मूँगफली",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "moongphali"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "South America, east of the Andes",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 5600 BCE",
+      "year_from": -5600,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Cultivated peanuts arose in South America; the oldest known pods, from Peru, are about 7,600 years old.",
+      "citations": [
+        {
+          "source_id": "wp-peanut",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "first half of the 16th century",
+      "year_from": 1500,
+      "year_to": 1550,
+      "label": "DOCUMENTED",
+      "text": "Jesuit missionaries are said to have introduced groundnut to India in the first half of the 1500s. In 1910 it was taken from Tamil Nadu to Gujarat.",
+      "citations": [
+        {
+          "source_id": "celkau-groundnut",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Jesuit missionaries"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "cashew",
+    "slug": "cashew",
+    "name": "Cashew",
+    "local_names": [
+      {
+        "text": "काजू",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kaju"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Tropical South America (Brazil)",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The cashew tree is native to tropical South America. Its name comes from the Tupi word acajú, through Portuguese caju.",
+      "citations": [
+        {
+          "source_id": "wp-cashew",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "1560–1565",
+      "year_from": 1560,
+      "year_to": 1565,
+      "label": "DOCUMENTED",
+      "text": "The Portuguese took the cashew tree from Brazil to Goa between 1560 and 1565.",
+      "citations": [
+        {
+          "source_id": "wp-cashew",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Portuguese, Brazil to Goa"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "papaya",
+    "slug": "papaya",
+    "name": "Papaya",
+    "local_names": [
+      {
+        "text": "पपीता",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "papita"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Southern Mexico and Central America",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Papaya is native to the American tropics, mainly southern Mexico and Central America.",
+      "citations": [
+        {
+          "source_id": "wp-papaya",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "after 1498 (not dated)",
+      "year_from": 1498,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our sources do not date its arrival. Accounts by 18th-century travellers suggest seeds went from the Caribbean to Malacca and on to India. As an American plant it cannot have arrived before Europeans reached India by sea in 1498.",
+      "citations": [
+        {
+          "source_id": "wp-papaya",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "pineapple",
+    "slug": "pineapple",
+    "name": "Pineapple",
+    "local_names": [
+      {
+        "text": "अनानास",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "ananas"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Paraná–Paraguay river region, South America",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The wild pineapple comes from the river basins between southern Brazil and Paraguay.",
+      "citations": [
+        {
+          "source_id": "wp-pineapple",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by 1550",
+      "year_from": 1500,
+      "year_to": 1550,
+      "label": "DOCUMENTED",
+      "text": "The Portuguese brought the pineapple from Brazil and had introduced it into India by 1550.",
+      "citations": [
+        {
+          "source_id": "wp-pineapple",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Portuguese, from Brazil"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "guava",
+    "slug": "guava",
+    "name": "Guava",
+    "local_names": [
+      {
+        "text": "अमरूद",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "amrood"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Mexico, Central America, Caribbean, northern South America",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The common guava is native to Mexico, Central America, the Caribbean and northern South America.",
+      "citations": [
+        {
+          "source_id": "wp-guava",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "after 1498 (not dated)",
+      "year_from": 1498,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our sources do not say when guava reached India, only that it was adopted across tropical Asia. As an American plant it cannot have arrived before 1498.",
+      "citations": [
+        {
+          "source_id": "wp-guava",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "custard-apple",
+    "slug": "custard-apple",
+    "name": "Custard apple (sitaphal)",
+    "local_names": [
+      {
+        "text": "सीताफल",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "sitaphal"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Tropical Americas (exact origin unknown)",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The custard apple is native to the tropical Americas; its exact origin is unknown.",
+      "citations": [
+        {
+          "source_id": "wp-annona",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "16th century",
+      "year_from": 1500,
+      "year_to": 1600,
+      "label": "DOCUMENTED",
+      "text": "It has been grown in India since its introduction to the Old World in the 16th century; Spanish traders carried it across the Pacific to the Philippines.",
+      "citations": [
+        {
+          "source_id": "wp-annona",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "turmeric",
+    "slug": "turmeric",
+    "name": "Turmeric",
+    "local_names": [
+      {
+        "text": "हल्दी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "haldi"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Indian subcontinent and Southeast Asia",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Turmeric is native to the Indian subcontinent and Southeast Asia. It has been found at Farmana, a Harappan site, dated to about 2600–2200 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-turmeric",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 2600 BCE",
+      "year_from": -2600,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native: used in South Asia since at least c. 2600–2200 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-turmeric",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "black-pepper",
+    "slug": "black-pepper",
+    "name": "Black pepper",
+    "local_names": [
+      {
+        "text": "काली मिर्च",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kali mirch"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Western Ghats and Malabar coast",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Wild pepper grows in India's Western Ghats; the species is native to South or Southeast Asia.",
+      "citations": [
+        {
+          "source_id": "wp-black-pepper",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native. Peppercorns were found in the nostrils of the Egyptian pharaoh Ramesses II (died 1213 BCE), showing pepper was traded far from India very early.",
+      "citations": [
+        {
+          "source_id": "wp-black-pepper",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "ginger",
+    "slug": "ginger",
+    "name": "Ginger",
+    "local_names": [
+      {
+        "text": "अदरक",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "adrak"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Maritime Southeast Asia",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Ginger is a cultivated plant from Maritime Southeast Asia that no longer exists in the wild.",
+      "citations": [
+        {
+          "source_id": "wp-ginger",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 1500 BCE",
+      "year_from": -1500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Scholars think Austronesian sailors brought ginger to South India about 3,500 years ago. It became one of the earliest spices exported from south-west India.",
+      "citations": [
+        {
+          "source_id": "wp-ginger",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Austronesian sailors (probable)"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "garlic",
+    "slug": "garlic",
+    "name": "Garlic",
+    "local_names": [
+      {
+        "text": "लहसुन",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "lahsun"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Central Asia, north-eastern Iran, Himalayan foothills",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Garlic is native to Central Asia, north-eastern Iran and the foothills of the Himalayas.",
+      "citations": [
+        {
+          "source_id": "wp-garlic",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "not dated in our sources",
+      "year_from": null,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our source does not give a date for garlic in India. Until an editor adds one, garlic does not count towards a dish's age limit.",
+      "citations": [
+        {
+          "source_id": "wp-garlic",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "sesame",
+    "slug": "sesame",
+    "name": "Sesame",
+    "local_names": [
+      {
+        "text": "तिल",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "til"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Indian subcontinent",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Cultivated sesame originated in the Indian subcontinent; charred seeds from about 3500–3050 BCE show it was domesticated at least 5,500 years ago.",
+      "citations": [
+        {
+          "source_id": "wp-sesame",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 3500 BCE",
+      "year_from": -3500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native. Sesame oil was probably traded to Mesopotamia by 2000 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-sesame",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "rice",
+    "slug": "rice",
+    "name": "Rice",
+    "local_names": [
+      {
+        "text": "चावल",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "chawal"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Yangtze valley, China (Asian rice)",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 7000 BCE",
+      "year_from": -7000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Asian rice was first domesticated in China about 9,000 years ago.",
+      "citations": [
+        {
+          "source_id": "wp-rice",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 2500 BCE",
+      "year_from": -2500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Japonica rice reached India about 4,500 years ago and crossed with local rice, giving rise to the indica rices grown in India today.",
+      "citations": [
+        {
+          "source_id": "wp-rice",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "wheat",
+    "slug": "wheat",
+    "name": "Wheat",
+    "local_names": [
+      {
+        "text": "गेहूँ",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "gehun"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Fertile Crescent, West Asia",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 9600 BCE",
+      "year_from": -9600,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Wheat was first cultivated in the Fertile Crescent around 9600 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-wheat",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by c. 3500 BCE",
+      "year_from": -3500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Wheat was being cultivated in India by around 3500 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-wheat",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "moth-bean",
+    "slug": "moth-bean",
+    "name": "Moth bean",
+    "local_names": [
+      {
+        "text": "मोठ",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "moth"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "India",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Moth bean is native to India and is grown mainly in its dry and semi-dry regions.",
+      "citations": [
+        {
+          "source_id": "wp-moth-bean",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to India.",
+      "citations": [
+        {
+          "source_id": "wp-moth-bean",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "chickpea",
+    "slug": "chickpea",
+    "name": "Chickpea (gram, besan)",
+    "local_names": [
+      {
+        "text": "चना",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "chana"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "South-eastern Turkey and Syria",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 8000 BCE",
+      "year_from": -8000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The chickpea was domesticated about 10,000 years ago; its closest wild relative grows in south-eastern Turkey.",
+      "citations": [
+        {
+          "source_id": "wp-chickpea",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by 1750–1500 BCE",
+      "year_from": -1750,
+      "year_to": -1500,
+      "label": "DOCUMENTED",
+      "text": "The earliest evidence of chickpea farming in India, from sites such as Inamgaon and Daimabad, dates to 1750–1500 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-chickpea",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "sugarcane",
+    "slug": "sugarcane",
+    "name": "Sugarcane and jaggery",
+    "local_names": [
+      {
+        "text": "गन्ना / गुड़",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "ganna / gur"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "New Guinea",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 4000 BCE",
+      "year_from": -4000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Sugarcane was domesticated in New Guinea about 6,000 years ago.",
+      "citations": [
+        {
+          "source_id": "wp-sugarcane",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by c. 1000–500 BCE",
+      "year_from": -1000,
+      "year_to": -500,
+      "label": "DOCUMENTED",
+      "text": "Austronesian traders brought sugarcane to India around 3,000 years ago. Northern India was the first place to make crystal sugar, about 2,500 years ago. Jaggery (gur) is cane juice boiled down into a solid block.",
+      "citations": [
+        {
+          "source_id": "wp-sugarcane",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Austronesian traders"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "cardamom",
+    "slug": "cardamom",
+    "name": "Green cardamom",
+    "local_names": [
+      {
+        "text": "इलायची",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "elaichi"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Southern India",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "True cardamom is native to southern India.",
+      "citations": [
+        {
+          "source_id": "wp-cardamom",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native. It may have been used in Ayurvedic medicine as early as the 4th century BCE.",
+      "citations": [
+        {
+          "source_id": "wp-cardamom",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "mustard",
+    "slug": "mustard",
+    "name": "Mustard (seeds and greens)",
+    "local_names": [
+      {
+        "text": "सरसों",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "sarson"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Not stated in our source",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our source does not say where mustard was first grown. Black, brown and white mustard are different species.",
+      "citations": [
+        {
+          "source_id": "wp-mustard-seed",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by the 5th century BCE",
+      "year_from": -500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Mustard seeds were known in India at least by the 5th century BCE: a story attributed to the Buddha refers to them. Earlier evidence is not covered in our source.",
+      "citations": [
+        {
+          "source_id": "wp-mustard-seed",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "coconut",
+    "slug": "coconut",
+    "name": "Coconut",
+    "local_names": [
+      {
+        "text": "नारियल",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "nariyal"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Indo-Pacific; separately domesticated in southern India",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The coconut comes from the Indo-Pacific. A separate Indo-Atlantic type seems to have been cultivated in southern India.",
+      "citations": [
+        {
+          "source_id": "wp-coconut",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "1000–500 BCE",
+      "year_from": -1000,
+      "year_to": -500,
+      "label": "DOCUMENTED",
+      "text": "Archaeological remains from 1000–500 BCE suggest coconut was cultivated in southern India; literary evidence places it in the subcontinent before the 1st century BCE.",
+      "citations": [
+        {
+          "source_id": "wp-coconut",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "tamarind",
+    "slug": "tamarind",
+    "name": "Tamarind",
+    "local_names": [
+      {
+        "text": "इमली",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "imli"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Tropical Africa",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Tamarind is native to tropical Africa, probably domesticated in the dry savannas of Sudan.",
+      "citations": [
+        {
+          "source_id": "wp-tamarind",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "several thousand years ago",
+      "year_from": -1000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "It reached South Asia through human cultivation several thousand years ago, which is why it is sometimes wrongly called native to India. (The year shown is an approximation of 'several thousand years'.)",
+      "citations": [
+        {
+          "source_id": "wp-tamarind",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "chhena",
+    "slug": "chhena",
+    "name": "Chhena and paneer (milk-splitting)",
+    "local_names": [
+      {
+        "text": "छेना / पनीर",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "chhena / paneer"
+      }
+    ],
+    "kind": "technique",
+    "native_region": "Debated",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DISPUTED",
+      "text": "How Indians learned to split milk with acid to make cheese is debated. Some scholars read a Vedic substance as an early cheese; others see Persian or Afghan influence under the Sultanates and Mughals.",
+      "citations": [
+        {
+          "source_id": "wp-paneer",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 17th century (disputed)",
+      "year_from": 1600,
+      "year_to": null,
+      "label": "DISPUTED",
+      "text": "One widely discussed theory holds that the Portuguese taught Bengal to 'break' milk with acid in the 1600s. K. T. Achaya and Chitra Banerji found no mention of cheese in India before the 17th century. Others argue for much older origins. We use 1600 for the age box, marked disputed.",
+      "citations": [
+        {
+          "source_id": "wp-paneer",
+          "locator": ""
+        },
+        {
+          "source_id": "wp-rasgulla",
+          "locator": ""
+        }
+      ],
+      "checked": false,
+      "route": "Possibly Portuguese in Bengal"
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "dairy",
+    "slug": "dairy",
+    "name": "Milk, curd, ghee and khoya",
+    "local_names": [
+      {
+        "text": "दूध, दही, घी, खोया",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "doodh, dahi, ghee, khoya"
+      }
+    ],
+    "kind": "product",
+    "native_region": "Indian subcontinent",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Ghee has been used in rituals since the Vedic period; the Yajurveda requires it as an offering in fire rituals.",
+      "citations": [
+        {
+          "source_id": "wp-ghee",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Ancient: dairy products appear in the earliest Indian texts.",
+      "citations": [
+        {
+          "source_id": "wp-ghee",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "black-gram",
+    "slug": "black-gram",
+    "name": "Black gram (urad)",
+    "local_names": [
+      {
+        "text": "उड़द",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "urad"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "South Asia",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Black gram originated in South Asia and has been cultivated there since ancient times.",
+      "citations": [
+        {
+          "source_id": "wp-black-gram",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to South Asia.",
+      "citations": [
+        {
+          "source_id": "wp-black-gram",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "green-gram",
+    "slug": "green-gram",
+    "name": "Green gram (moong)",
+    "local_names": [
+      {
+        "text": "मूँग",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "moong"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "India",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The mung bean was domesticated in India; carbonised beans about 4,500 years old have been found in the north-west, and finds in Karnataka are over 4,000 years old.",
+      "citations": [
+        {
+          "source_id": "wp-mung-bean",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "c. 2500 BCE",
+      "year_from": -2500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to India.",
+      "citations": [
+        {
+          "source_id": "wp-mung-bean",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "pigeon-pea",
+    "slug": "pigeon-pea",
+    "name": "Pigeon pea (toor, arhar)",
+    "local_names": [
+      {
+        "text": "अरहर / तूर",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "arhar / toor"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "India",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "India is the main centre of origin of the pigeon pea; it was cultivated in peninsular India by at least 2800 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-pigeon-pea",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "by 2800 BCE",
+      "year_from": -2800,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to India.",
+      "citations": [
+        {
+          "source_id": "wp-pigeon-pea",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "sweet-potato",
+    "slug": "sweet-potato",
+    "name": "Sweet potato",
+    "local_names": [
+      {
+        "text": "शकरकंद",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "shakarkand"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Central or South America",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The sweet potato was domesticated in Central or South America; remains from Peru are about 10,000 years old.",
+      "citations": [
+        {
+          "source_id": "wp-sweet-potato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "after 1498 (not dated)",
+      "year_from": 1498,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our source does not say when sweet potato reached India. It came to Asia through Spanish and Portuguese trade in the 1500s and 1600s, so it cannot have arrived before 1498.",
+      "citations": [
+        {
+          "source_id": "wp-sweet-potato",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "pumpkin",
+    "slug": "pumpkin",
+    "name": "Pumpkin and squash",
+    "local_names": [
+      {
+        "text": "कद्दू",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kaddu"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Southern Mexico and the Andes",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "over 8,000 years ago",
+      "year_from": -6000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Pumpkins and squashes (Cucurbita) are American plants; evidence of domestication in Oaxaca, Mexico, is over 8,000 years old.",
+      "citations": [
+        {
+          "source_id": "wp-cucurbita",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "after 1498 (not dated)",
+      "year_from": 1498,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Cucurbita spread to the rest of the world only after 1492. Our sources do not date its arrival in India. (Older Indian gourds such as ash gourd are different plants.)",
+      "citations": [
+        {
+          "source_id": "wp-cucurbita",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "plantain",
+    "slug": "plantain",
+    "name": "Banana and plantain",
+    "local_names": [
+      {
+        "text": "केला",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kela"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "New Guinea",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "10,000–6,500 years ago",
+      "year_from": -6500,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Bananas were probably first domesticated in New Guinea.",
+      "citations": [
+        {
+          "source_id": "wp-banana",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "possibly by c. 2000 BCE",
+      "year_from": -2000,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Banana remains at Kot Diji (Indus Valley) are a tentative sign of early presence; Austronesian traders may have brought bananas to South Asia as early as 2000 BCE.",
+      "citations": [
+        {
+          "source_id": "wp-banana",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "ash-gourd",
+    "slug": "ash-gourd",
+    "name": "Ash gourd (petha)",
+    "local_names": [
+      {
+        "text": "पेठा",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "petha"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "South and Southeast Asia",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The ash gourd (wax gourd) is native to South and Southeast Asia and is widely grown in India.",
+      "citations": [
+        {
+          "source_id": "wp-wax-gourd",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to South and Southeast Asia.",
+      "citations": [
+        {
+          "source_id": "wp-wax-gourd",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "lotus-stem",
+    "slug": "lotus-stem",
+    "name": "Lotus stem (nadru)",
+    "local_names": [
+      {
+        "text": "कमल ककड़ी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kamal kakdi"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Central and northern India",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The sacred lotus is native to central and northern India and the southern Himalayas.",
+      "citations": [
+        {
+          "source_id": "wp-lotus",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to India.",
+      "citations": [
+        {
+          "source_id": "wp-lotus",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "spinach",
+    "slug": "spinach",
+    "name": "Spinach",
+    "local_names": [
+      {
+        "text": "पालक",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "palak"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Persia (Iran)",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "c. 2,000 years ago",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Spinach originated in ancient Persia.",
+      "citations": [
+        {
+          "source_id": "wp-spinach",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "before 647 CE",
+      "year_from": null,
+      "year_to": 647,
+      "label": "DOCUMENTED",
+      "text": "Spinach reached India first and then China, via Nepal, in 647 CE. Our source gives no date for its arrival in India itself.",
+      "citations": [
+        {
+          "source_id": "wp-spinach",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "poppy-seed",
+    "slug": "poppy-seed",
+    "name": "Poppy seed (khaskhas)",
+    "local_names": [
+      {
+        "text": "खसखस",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "khaskhas"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "Probably the western Mediterranean",
+    "native_to_india": false,
+    "origin": {
+      "era_label": "—",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The opium poppy's native range is probably the western and central Mediterranean.",
+      "citations": [
+        {
+          "source_id": "wp-poppy",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "not dated in our sources",
+      "year_from": null,
+      "year_to": null,
+      "label": "UNKNOWN",
+      "text": "Our source does not say when poppy reached India; it covers only the colonial opium trade from 1683 onwards.",
+      "citations": [
+        {
+          "source_id": "wp-poppy",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  },
+  {
+    "id": "eggplant",
+    "slug": "eggplant",
+    "name": "Eggplant (brinjal)",
+    "local_names": [
+      {
+        "text": "बैंगन",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "baingan"
+      }
+    ],
+    "kind": "plant",
+    "native_region": "South Asia and, separately, China",
+    "native_to_india": true,
+    "origin": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "The eggplant was probably domesticated twice: once in South Asia (India) and once in China.",
+      "citations": [
+        {
+          "source_id": "wp-eggplant",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "arrival": {
+      "era_label": "Native to India",
+      "year_from": null,
+      "year_to": null,
+      "label": "DOCUMENTED",
+      "text": "Native to South Asia.",
+      "citations": [
+        {
+          "source_id": "wp-eggplant",
+          "locator": ""
+        }
+      ],
+      "checked": false
+    },
+    "status": "published",
+    "last_reviewed_date": null
+  }
+]

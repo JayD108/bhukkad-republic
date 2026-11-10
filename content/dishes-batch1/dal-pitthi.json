@@ -1,0 +1,42 @@
+{
+  "slug": "dal-pitthi",
+  "name": "Dal pitthi",
+  "local_names": [
+    {
+      "text": "दाल पीठी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Thin wheat-dough dumplings cooked in spiced dal, sometimes stuffed. A one-pot breakfast or supper.",
+  "ingredients": [
+    "wheat flour",
+    "lentils",
+    "ghee",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

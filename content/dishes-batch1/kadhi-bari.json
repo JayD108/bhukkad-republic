@@ -1,0 +1,41 @@
+{
+  "slug": "kadhi-bari",
+  "name": "Kadhi bari",
+  "local_names": [
+    {
+      "text": "कढ़ी बड़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "bihar"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": false
+  },
+  "summary": "Fried gram-flour dumplings in a tangy spiced yogurt gravy, eaten with rice.",
+  "ingredients": [
+    "chickpea flour",
+    "yogurt",
+    "mustard oil"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-bihari-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Bihari_cuisine",
+      "title": "Bihari cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "agra-dalmoth",
+  "name": "Agra dalmoth",
+  "local_names": [
+    {
+      "text": "आगरा दालमोठ",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Crisp fried lentils (mainly masoor) mixed with sev and spices.",
+  "ingredients": [
+    "masoor dal",
+    "chickpea flour",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [],
+  "needs_source": true,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

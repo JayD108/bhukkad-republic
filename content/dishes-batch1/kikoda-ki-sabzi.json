@@ -1,0 +1,41 @@
+{
+  "slug": "kikoda-ki-sabzi",
+  "name": "Kikoda ki sabzi",
+  "local_names": [
+    {
+      "text": "किकोड़ा की सब्ज़ी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Spiny gourd stir-fried with onion and spices in the monsoon.",
+  "ingredients": [
+    "spiny gourd",
+    "onion",
+    "spices"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

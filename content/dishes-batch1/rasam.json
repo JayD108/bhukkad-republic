@@ -1,0 +1,42 @@
+{
+  "slug": "rasam",
+  "name": "Rasam",
+  "local_names": [
+    {
+      "text": "ரசம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "A thin, peppery tamarind and tomato soup, drunk or mixed with rice. Variants include pepper, garlic, horse gram and pineapple.",
+  "ingredients": [
+    "tamarind",
+    "tomato",
+    "pepper",
+    "cumin"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

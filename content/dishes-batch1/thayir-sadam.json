@@ -1,0 +1,42 @@
+{
+  "slug": "thayir-sadam",
+  "name": "Thayir sadam",
+  "local_names": [
+    {
+      "text": "தயிர் சாதம்",
+      "script": "Tamil"
+    }
+  ],
+  "state_ids": [
+    "tamil-nadu"
+  ],
+  "category": "rice",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "Rice mixed with curd, tempered with mustard, ginger and curry leaves. Eaten at the end of a meal.",
+  "ingredients": [
+    "rice",
+    "curd",
+    "mustard seed",
+    "ginger"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-tamil-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Tamil_cuisine",
+      "title": "Tamil cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

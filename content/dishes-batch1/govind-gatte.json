@@ -1,0 +1,43 @@
+{
+  "slug": "govind-gatte",
+  "name": "Govind gatte",
+  "local_names": [
+    {
+      "text": "गोविंद गट्टे",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": false,
+    "jain": true
+  },
+  "summary": "A richer 'royal' version of gatte, the dumplings stuffed with khoya, paneer and dry fruit before going into the gravy.",
+  "ingredients": [
+    "chickpea flour",
+    "khoya",
+    "paneer",
+    "dry fruit",
+    "yogurt"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "jammu-kashmir",
+    "slug": "jammu-kashmir",
+    "name": "Jammu and Kashmir",
+    "local_name": {
+      "text": "जम्मू और कश्मीर",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "jammu aur kashmir"
+    },
+    "code": "JK",
+    "grid": {
+      "col": 2,
+      "row": 0
+    },
+    "intro": "Kashmir Valley dishes slow-cooked in yogurt: Kashmiri Pandit dum aloo and lotus-stem nadru yakhni."
+  },
+  {
+    "id": "himachal-pradesh",
+    "slug": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "local_name": {
+      "text": "हिमाचल प्रदेश",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "himachal pradesh"
+    },
+    "code": "HP",
+    "grid": {
+      "col": 3,
+      "row": 1
+    },
+    "intro": "Steamed, stuffed siddu and the festive Kangri dham, cooked by hereditary cooks for weddings and temple festivals."
+  },
+  {
+    "id": "punjab",
+    "slug": "punjab",
+    "name": "Punjab",
+    "local_name": {
+      "text": "ਪੰਜਾਬ",
+      "script": "Gurmukhi",
+      "lang": "pa",
+      "translit": "panjab"
+    },
+    "code": "PB",
+    "grid": {
+      "col": 2,
+      "row": 1
+    },
+    "intro": "Amritsar's stuffed kulcha and the winter pairing of mustard greens with maize roti."
+  },
+  {
+    "id": "uttarakhand",
+    "slug": "uttarakhand",
+    "name": "Uttarakhand",
+    "local_name": {
+      "text": "उत्तराखंड",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "uttarakhand"
+    },
+    "code": "UK",
+    "grid": {
+      "col": 4,
+      "row": 1
+    },
+    "intro": "Garhwal's green kafuli and the khoya bal mithai of Almora."
+  },
+  {
+    "id": "rajasthan",
+    "slug": "rajasthan",
+    "name": "Rajasthan",
+    "local_name": {
+      "text": "राजस्थान",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "rajasthan"
+    },
+    "code": "RJ",
+    "grid": {
+      "col": 1,
+      "row": 2
+    },
+    "intro": "From Bikaner's moth-bean bhujia to dal baati churma and ghewar, the sweet of Teej."
+  },
+  {
+    "id": "uttar-pradesh",
+    "slug": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "local_name": {
+      "text": "उत्तर प्रदेश",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "uttar pradesh"
+    },
+    "code": "UP",
+    "grid": {
+      "col": 4,
+      "row": 2
+    },
+    "intro": "Bedmi puri for breakfast, Agra's candied petha and Varanasi's tricolour barfi."
+  },
+  {
+    "id": "bihar",
+    "slug": "bihar",
+    "name": "Bihar",
+    "local_name": {
+      "text": "बिहार",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "bihar"
+    },
+    "code": "BR",
+    "grid": {
+      "col": 5,
+      "row": 2
+    },
+    "intro": "Sattu, smoky chokha and the layered khaja of Silao."
+  },
+  {
+    "id": "assam",
+    "slug": "assam",
+    "name": "Assam",
+    "local_name": {
+      "text": "অসম",
+      "script": "Bengali-Assamese",
+      "lang": "as",
+      "translit": "oxom"
+    },
+    "code": "AS",
+    "grid": {
+      "col": 8,
+      "row": 2
+    },
+    "intro": "Rice cakes called pitha, made above all for Bihu."
+  },
+  {
+    "id": "gujarat",
+    "slug": "gujarat",
+    "name": "Gujarat",
+    "local_name": {
+      "text": "ગુજરાત",
+      "script": "Gujarati",
+      "lang": "gu",
+      "translit": "gujarat"
+    },
+    "code": "GJ",
+    "grid": {
+      "col": 0,
+      "row": 3
+    },
+    "intro": "Steamed dhokla, rolled khandvi and Surat's winter undhiyu."
+  },
+  {
+    "id": "madhya-pradesh",
+    "slug": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "local_name": {
+      "text": "मध्य प्रदेश",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "madhya pradesh"
+    },
+    "code": "MP",
+    "grid": {
+      "col": 3,
+      "row": 3
+    },
+    "intro": "Malwa's breakfasts and dal bafla, with Indore's poha-jalebi at the centre."
+  },
+  {
+    "id": "jharkhand",
+    "slug": "jharkhand",
+    "name": "Jharkhand",
+    "local_name": {
+      "text": "झारखंड",
+      "script": "Devanagari",
+      "lang": "hi",
+      "translit": "jharkhand"
+    },
+    "code": "JH",
+    "grid": {
+      "col": 5,
+      "row": 3
+    },
+    "intro": "Rice-and-pulse snacks such as dhuska from the market stalls of the plateau."
+  },
+  {
+    "id": "west-bengal",
+    "slug": "west-bengal",
+    "name": "West Bengal",
+    "local_name": {
+      "text": "পশ্চিমবঙ্গ",
+      "script": "Bengali",
+      "lang": "bn",
+      "translit": "poshchimbongo"
+    },
+    "code": "WB",
+    "grid": {
+      "col": 6,
+      "row": 3
+    },
+    "intro": "Mishti doi, Bardhaman's mihidana, the rosogolla and shukto, the bitter dish that opens a meal."
+  },
+  {
+    "id": "manipur",
+    "slug": "manipur",
+    "name": "Manipur",
+    "local_name": {
+      "text": "ꯃꯅꯤꯄꯨꯔ",
+      "script": "Meetei Mayek",
+      "lang": "mni",
+      "translit": "manipur"
+    },
+    "code": "MN",
+    "grid": {
+      "col": 9,
+      "row": 3
+    },
+    "intro": "Home of chak-hao, an aromatic black rice used for ceremonies and puddings."
+  },
+  {
+    "id": "maharashtra",
+    "slug": "maharashtra",
+    "name": "Maharashtra",
+    "local_name": {
+      "text": "महाराष्ट्र",
+      "script": "Devanagari",
+      "lang": "mr",
+      "translit": "maharashtra"
+    },
+    "code": "MH",
+    "grid": {
+      "col": 2,
+      "row": 4
+    },
+    "intro": "Fiery misal, Mumbai's vada pav and festival puran poli."
+  },
+  {
+    "id": "odisha",
+    "slug": "odisha",
+    "name": "Odisha",
+    "local_name": {
+      "text": "ଓଡ଼ିଶା",
+      "script": "Odia",
+      "lang": "or",
+      "translit": "odisha"
+    },
+    "code": "OD",
+    "grid": {
+      "col": 5,
+      "row": 4
+    },
+    "intro": "Everyday dalma and chhena sweets, including chhena poda and the much-argued-over rasagola."
+  },
+  {
+    "id": "goa",
+    "slug": "goa",
+    "name": "Goa",
+    "local_name": {
+      "text": "गोंय",
+      "script": "Devanagari",
+      "lang": "kok",
+      "translit": "goen"
+    },
+    "code": "GA",
+    "grid": {
+      "col": 1,
+      "row": 5
+    },
+    "intro": "Goan Hindu and Indo-Portuguese kitchens side by side: khatkhate, feast-day khaje and bebinca."
+  },
+  {
+    "id": "karnataka",
+    "slug": "karnataka",
+    "name": "Karnataka",
+    "local_name": {
+      "text": "ಕರ್ನಾಟಕ",
+      "script": "Kannada",
+      "lang": "kn",
+      "translit": "karnataka"
+    },
+    "code": "KA",
+    "grid": {
+      "col": 2,
+      "row": 5
+    },
+    "intro": "Palace sweets of Mysore, Dharwad's peda and spiced rice dishes."
+  },
+  {
+    "id": "andhra-pradesh",
+    "slug": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "local_name": {
+      "text": "ఆంధ్ర ప్రదేశ్",
+      "script": "Telugu",
+      "lang": "te",
+      "translit": "andhra pradesh"
+    },
+    "code": "AP",
+    "grid": {
+      "col": 3,
+      "row": 5
+    },
+    "intro": "Green-gram crepes for breakfast and Machilipatnam's Bandar laddu."
+  },
+  {
+    "id": "kerala",
+    "slug": "kerala",
+    "name": "Kerala",
+    "local_name": {
+      "text": "കേരളം",
+      "script": "Malayalam",
+      "lang": "ml",
+      "translit": "keralam"
+    },
+    "code": "KL",
+    "grid": {
+      "col": 2,
+      "row": 6
+    },
+    "intro": "Puttu, appam and avial, the many-vegetable dish of the sadhya feast."
+  },
+  {
+    "id": "tamil-nadu",
+    "slug": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "local_name": {
+      "text": "தமிழ்நாடு",
+      "script": "Tamil",
+      "lang": "ta",
+      "translit": "tamil nadu"
+    },
+    "code": "TN",
+    "grid": {
+      "col": 3,
+      "row": 6
+    },
+    "intro": "Idli and ven pongal for breakfast, Srivilliputhur's palkova and Kovilpatti's peanut brittle."
+  }
+]

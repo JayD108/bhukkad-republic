@@ -1,0 +1,4525 @@
+[
+  {
+    "id": "bikaneri-bhujia",
+    "slug": "bikaneri-bhujia",
+    "name": "Bikaneri bhujia",
+    "local_names": [
+      {
+        "text": "बीकानेरी भुजिया",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "bikaneri bhujia"
+      }
+    ],
+    "state_ids": [
+      "rajasthan"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Bikaneri Bhujia",
+      "year": "2010–11",
+      "registered_region": "Bikaner, Rajasthan",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "Thin, crisp strands of moth-bean and gram-flour dough, spiced with pepper and chilli and deep-fried. Bikaner's best-known snack, made largely as a cottage industry.",
+    "history": [
+      {
+        "id": "bb-1",
+        "text": "The first batch is commonly dated to 1877, in the princely state of Bikaner during the reign of Maharaja Dungar Singh.",
+        "era_label": "1877",
+        "year_from": 1877,
+        "year_to": 1877,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-bikaneri-bhujia",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "bb-2",
+        "text": "Bikaneri Bhujia is a registered Geographical Indication of Rajasthan. A news report from September 2010 lists it among twelve newly registered products.",
+        "era_label": "2010",
+        "year_from": 2010,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          },
+          {
+            "source_id": "govnow-bhujia-gi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "moth-bean",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "black-pepper",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dal-baati-churma"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "Classic Bikaneri bhujia: moth bean and gram flour with chilli and pepper."
+  },
+  {
+    "id": "dal-baati-churma",
+    "slug": "dal-baati-churma",
+    "name": "Dal baati churma",
+    "local_names": [
+      {
+        "text": "दाल बाटी चूरमा",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "dal baati churma"
+      }
+    ],
+    "state_ids": [
+      "rajasthan"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Hard wheat-dough balls baked over coals and soaked in ghee, eaten with spiced lentils and churma, a sweet of crushed wheat, ghee and jaggery or sugar.",
+    "history": [
+      {
+        "id": "dbc-1",
+        "text": "Accounts link baati to the time of Bappa Rawal, founder of the Mewar kingdom, and describe it as a wartime meal of his clan.",
+        "era_label": "8th century (claimed)",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-dal-baati",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dbc-2",
+        "text": "A popular story says soldiers buried dough in the desert sand and let the sun bake it. Our source calls this anecdotal.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-dal-baati",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dbc-3",
+        "text": "Two folk stories explain churma: a cook spilling cane juice on baati, or home cooks soaking baati in sweet syrup. There is no firm evidence for either.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-dal-baati",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "pigeon-pea",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dal-bafla",
+      "litti-chokha"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "ghewar",
+    "slug": "ghewar",
+    "name": "Ghewar",
+    "local_names": [
+      {
+        "text": "घेवर",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "ghevar"
+      }
+    ],
+    "state_ids": [
+      "rajasthan"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A lacy, honeycombed disc of fried flour-and-ghee batter soaked in sugar syrup, often topped with rabri and nuts. Rajasthan's sweet for Teej and the monsoon month of Shravan.",
+    "history": [
+      {
+        "id": "gh-1",
+        "text": "Ghewar is said to have been made first by cooks in Rajasthan's royal kitchens before it reached ordinary homes. No dates are given for this.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-ghevar",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "gh-2",
+        "text": "Mirabai, the 16th-century poet-saint, describes offering ghevar to Krishna in one of her poems.",
+        "era_label": "16th century",
+        "year_from": 1500,
+        "year_to": 1600,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-ghevar",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "gh-3",
+        "text": "The name may come from the Sanskrit ghṛtapūra, roughly 'ghee cake'.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-ghevar",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "gh-4",
+        "text": "Laxmi Mishthan Bhandar in Jaipur introduced a chhena (fresh cheese) version in 1961.",
+        "era_label": "1961",
+        "year_from": 1961,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-ghevar",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chhena",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [
+      "Teej",
+      "Raksha Bandhan"
+    ],
+    "images": [],
+    "place_ids": [
+      "lmb-jaipur"
+    ],
+    "related_dish_ids": [
+      "silao-khaja"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "dhokla",
+    "slug": "dhokla",
+    "name": "Dhokla",
+    "local_names": [
+      {
+        "text": "ઢોકળા",
+        "script": "Gujarati",
+        "lang": "gu",
+        "translit": "dhokla"
+      },
+      {
+        "text": "ढोकला",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "dhokla"
+      }
+    ],
+    "state_ids": [
+      "gujarat"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A soft, tangy steamed cake of fermented rice and gram-flour batter, cut into squares and finished with mustard seeds. Gujarat eats it for breakfast, with tea and at weddings.",
+    "history": [
+      {
+        "id": "dh-1",
+        "text": "Popular accounts say an 11th-century Jain text mentions dukkia, a steamed dish of pulses, and call it dhokla's ancestor. They give different years (1066 or 1068 CE) and don't name the text, so we can't confirm it yet.",
+        "era_label": "11th century",
+        "year_from": 1066,
+        "year_to": 1068,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-dhokla",
+            "locator": ""
+          },
+          {
+            "source_id": "knocksense-dhokla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dh-2",
+        "text": "The word dhokla appears in Varnaka Samuccaya, a Gujarati text dated to around 1520 CE. It is the earliest written use of the name we know of.",
+        "era_label": "c. 1520",
+        "year_from": 1520,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-dhokla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dh-3",
+        "text": "K. T. Achaya records the classic method: two parts rice to one part gram flour, soured overnight with curd, steamed in a tray, then cut and finished with fried mustard seeds, fresh coriander and grated coconut.",
+        "era_label": "classic method",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "achaya-dictionary",
+            "locator": "entry 'dhokla' (page not yet checked)"
+          },
+          {
+            "source_id": "knocksense-dhokla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dh-4",
+        "text": "Who first made khaman, the all-gram-flour cousin raised with soda instead of a long ferment, is not recorded in the sources we checked.",
+        "era_label": "khaman",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-dhokla",
+            "locator": ""
+          },
+          {
+            "source_id": "knocksense-dhokla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "khandvi",
+      "idli",
+      "undhiyu"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "Classic dhokla as Achaya describes it. Khaman is often tempered with green chilli."
+  },
+  {
+    "id": "khandvi",
+    "slug": "khandvi",
+    "name": "Khandvi",
+    "local_names": [
+      {
+        "text": "ખાંડવી",
+        "script": "Gujarati",
+        "lang": "gu",
+        "translit": "khandvi"
+      }
+    ],
+    "state_ids": [
+      "gujarat"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Thin sheets of gram flour cooked with yogurt, spread out to set, then rolled into soft spirals and dressed with a tempering. Also called patuli or dahivadi.",
+    "history": [
+      {
+        "id": "kh-1",
+        "text": "We found no dated history for khandvi in our sources; they record only its other names, patuli, dahivadi and suralichi vadi.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-khandvi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "turmeric",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dhokla"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "undhiyu",
+    "slug": "undhiyu",
+    "name": "Undhiyu",
+    "local_names": [
+      {
+        "text": "ઊંધિયું",
+        "script": "Gujarati",
+        "lang": "gu",
+        "translit": "undhiyu"
+      }
+    ],
+    "state_ids": [
+      "gujarat"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A winter casserole from Surat of beans, small aubergines, potatoes, yam, unripe banana and fenugreek dumplings, slow-cooked with a green paste of coriander, ginger, garlic and chilli.",
+    "history": [
+      {
+        "id": "un-1",
+        "text": "The name comes from the Gujarati undhu, 'upside down', because it was traditionally cooked in earthen pots (matlu) turned upside down and buried in a fire pit.",
+        "era_label": "name",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-undhiyu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "un-2",
+        "text": "Our source gives no date for when undhiyu began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-undhiyu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "eggplant",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "plantain",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dhokla",
+      "khatkhate"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "puran-poli",
+    "slug": "puran-poli",
+    "name": "Puran poli",
+    "local_names": [
+      {
+        "text": "पुरणपोळी",
+        "script": "Devanagari",
+        "lang": "mr",
+        "translit": "puranpoli"
+      }
+    ],
+    "state_ids": [
+      "maharashtra",
+      "karnataka"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A soft flatbread stuffed with cooked chana dal sweetened with jaggery and scented with cardamom or nutmeg, eaten warm with ghee at festivals across Maharashtra, Karnataka and Andhra.",
+    "history": [
+      {
+        "id": "pp-1",
+        "text": "The Manasollasa, a 12th-century Sanskrit encyclopedia written for King Someshvara III in Karnataka, refers to the dish.",
+        "era_label": "12th century",
+        "year_from": 1130,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-puran-poli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "pp-2",
+        "text": "Ayurvedic works such as the Bhavaprakasha also give a recipe for it.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-puran-poli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [
+      "Gudi Padwa",
+      "Holi",
+      "Ganesh Chaturthi",
+      "Ugadi"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "mysore-pak"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "misal-pav",
+    "slug": "misal-pav",
+    "name": "Misal pav",
+    "local_names": [
+      {
+        "text": "मिसळ पाव",
+        "script": "Devanagari",
+        "lang": "mr",
+        "translit": "misal pav"
+      }
+    ],
+    "state_ids": [
+      "maharashtra"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A fiery curry of sprouted moth beans (usal) with a thin spicy gravy, topped with farsan, onion and lemon, eaten with soft bread rolls. Every Maharashtra city argues its version is best.",
+    "history": [
+      {
+        "id": "mp-1",
+        "text": "Our sources give no date or founding story for misal. They name Mamledar, Bedekar and Katakir among shops that have served it for decades.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-misal-pav",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "mp-2",
+        "text": "In 2015 the misal at Aaswad in Dadar, Mumbai, was named the world's tastiest vegetarian dish at the FoodieHub Awards in London.",
+        "era_label": "2015",
+        "year_from": 2015,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-misal-pav",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "moth-bean",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "tomato",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [
+      "bedekar-pune",
+      "mamledar-thane",
+      "aaswad-mumbai"
+    ],
+    "related_dish_ids": [
+      "vada-pav"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "vada-pav",
+    "slug": "vada-pav",
+    "name": "Vada pav",
+    "local_names": [
+      {
+        "text": "वडा पाव",
+        "script": "Devanagari",
+        "lang": "mr",
+        "translit": "vada pav"
+      }
+    ],
+    "state_ids": [
+      "maharashtra"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A spiced potato fritter in gram-flour batter, tucked into a soft bread roll with fiery garlic chutney and fried green chilli. Mumbai's cheap, fast lunch.",
+    "history": [
+      {
+        "id": "vp-1",
+        "text": "Vada pav is commonly credited to Ashok Vaidya and Sudhakar Mhatre, who are said to have created it in Mumbai in 1966.",
+        "era_label": "1966",
+        "year_from": 1966,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-vada-pav",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "misal-pav"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "khatkhate",
+    "slug": "khatkhate",
+    "name": "Khatkhate",
+    "local_names": [
+      {
+        "text": "खतखते",
+        "script": "Devanagari",
+        "lang": "kok",
+        "translit": "khatkhate"
+      }
+    ],
+    "state_ids": [
+      "goa"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A thick Goan Hindu stew of at least five vegetables, such as radish, sweet potato, corn and pumpkin, cooked with coconut, jaggery, kokum, tamarind and tirphal.",
+    "history": [
+      {
+        "id": "kk-1",
+        "text": "It is commonly served at Goan Hindu weddings, religious ceremonies and festivals such as Ganesh Chaturthi.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-khatkhate",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "kk-2",
+        "text": "Our source gives no date for when the dish began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-khatkhate",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "tamarind",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sweet-potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "pumpkin",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "maize",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      }
+    ],
+    "festivals": [
+      "Ganesh Chaturthi"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "goan-khaje",
+      "undhiyu"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "community": "Goud Saraswat Brahmin"
+  },
+  {
+    "id": "goan-khaje",
+    "slug": "goan-khaje",
+    "name": "Goan khaje",
+    "local_names": [
+      {
+        "text": "खाजे",
+        "script": "Devanagari",
+        "lang": "kok",
+        "translit": "khaje"
+      }
+    ],
+    "state_ids": [
+      "goa"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Goan Khaje",
+      "year": "2021–22",
+      "registered_region": "Goa",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "Crunchy sticks of fried gram-flour dough coated in jaggery, piled into mountains at temple zatras and church feasts across Goa.",
+    "history": [
+      {
+        "id": "gk-1",
+        "text": "Khaje is sold at the fairs held after temple zatras and church feasts.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "goemkarponn-khaje",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "gk-2",
+        "text": "The All Goa Khaje Producers Association applied for a GI in July 2019. A Goan paper reported the registration in July 2020; the national GI list shows the year as 2021–22.",
+        "era_label": "2019–2021",
+        "year_from": 2019,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "goemkarponn-khaje",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "khatkhate",
+      "bebinca"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "bebinca",
+    "slug": "bebinca",
+    "name": "Bebinca",
+    "local_names": [],
+    "state_ids": [
+      "goa"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": false,
+      "contains_egg": true,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false,
+      "nonveg_variants_note": "Contains egg yolks."
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A Goan layer cake of egg yolk, coconut milk, sugar, flour and ghee, baked one thin layer at a time, traditionally seven to sixteen layers. A Christmas favourite.",
+    "history": [
+      {
+        "id": "be-1",
+        "text": "Bebinca belongs to Indo-Portuguese cooking in Goa and is especially popular at Christmas.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-bebinca",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "be-2",
+        "text": "Our source gives no date or founding story. A widely repeated tale about a nun named Bebiana does not appear in it, so we don't repeat it as fact.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-bebinca",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      }
+    ],
+    "festivals": [
+      "Christmas"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "goan-khaje"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "sarson-da-saag",
+    "slug": "sarson-da-saag",
+    "name": "Sarson da saag and makki di roti",
+    "local_names": [
+      {
+        "text": "ਸਰ੍ਹੋਂ ਦਾ ਸਾਗ ਤੇ ਮੱਕੀ ਦੀ ਰੋਟੀ",
+        "script": "Gurmukhi",
+        "lang": "pa",
+        "translit": "sarhon da saag te makki di roti"
+      }
+    ],
+    "state_ids": [
+      "punjab"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Slow-cooked mustard greens with garlic, ginger and chilli, finished with ghee or butter, eaten with flatbread made from maize flour. Punjab's winter meal.",
+    "history": [
+      {
+        "id": "ss-1",
+        "text": "Sarson comes from the Sanskrit sarṣapa, 'mustard', and saag from śāka, 'greens'.",
+        "era_label": "name",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-sarson-da-saag",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ss-2",
+        "text": "One source cited in our reference says mustard has been grown in Punjab for millennia; the maize in makki di roti, by contrast, is an American crop.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-sarson-da-saag",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-maize",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "maize",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "amritsari-kulcha"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "The pairing with makki di roti can't be older than maize in India."
+  },
+  {
+    "id": "amritsari-kulcha",
+    "slug": "amritsari-kulcha",
+    "name": "Amritsari kulcha",
+    "local_names": [
+      {
+        "text": "ਅੰਮ੍ਰਿਤਸਰੀ ਕੁਲਚਾ",
+        "script": "Gurmukhi",
+        "lang": "pa",
+        "translit": "amritsari kulcha"
+      }
+    ],
+    "state_ids": [
+      "punjab"
+    ],
+    "category": "bread",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A crisp, layered tandoor bread stuffed with spiced mashed potato, brushed with butter and usually eaten with chole. Amritsar's breakfast.",
+    "history": [
+      {
+        "id": "ak-1",
+        "text": "It is said to have originated in Amritsar, inspired by the Peshawari khameeri roti, a sourdough flatbread. No date is given.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "tribune-kulcha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ak-2",
+        "text": "The word kulcha comes from Persian, for a disc-shaped leavened loaf.",
+        "era_label": "Persian word",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-kulcha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "sarson-da-saag"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "kashmiri-dum-aloo",
+    "slug": "kashmiri-dum-aloo",
+    "name": "Kashmiri dum aloo",
+    "local_names": [
+      {
+        "text": "दम आलू",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "dum aloo"
+      }
+    ],
+    "state_ids": [
+      "jammu-kashmir"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Small potatoes, skinned and fried, then slow-cooked in a yogurt sauce with fennel, ginger and red chilli. Part of Kashmiri Pandit cooking.",
+    "history": [
+      {
+        "id": "da-1",
+        "text": "Dum aloo is part of traditional Kashmiri Pandit cuisine; dum means slow cooking in steam.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-dum-aloo",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "nadru-yakhni"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "community": "Kashmiri Pandit"
+  },
+  {
+    "id": "nadru-yakhni",
+    "slug": "nadru-yakhni",
+    "name": "Nadru yakhni",
+    "local_names": [
+      {
+        "text": "नदरू यख़नी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "nadru yakhni"
+      }
+    ],
+    "state_ids": [
+      "jammu-kashmir"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Slices of lotus stem simmered in a creamy, gently spiced yogurt gravy. A slow, elaborate curry from the Kashmir Valley.",
+    "history": [
+      {
+        "id": "ny-1",
+        "text": "A story says lotus stem entered Kashmiri food in the 15th century, when boatmen of the ruler Zain-ul-Abidin picked lotus roots on the Gill Sar lake for his supper.",
+        "era_label": "15th century",
+        "year_from": 1400,
+        "year_to": 1500,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "homegrown-nadru",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "lotus-stem",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "kashmiri-dum-aloo"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "siddu",
+    "slug": "siddu",
+    "name": "Siddu",
+    "local_names": [
+      {
+        "text": "सिड्डू",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "siddu"
+      }
+    ],
+    "state_ids": [
+      "himachal-pradesh"
+    ],
+    "category": "bread",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A steamed bun of yeasted wheat dough stuffed with a savoury paste of lentils, poppy seeds and walnuts, or a sweet filling, and eaten hot with ghee.",
+    "history": [
+      {
+        "id": "si-1",
+        "text": "Siddu is said to come from the Mahasu area (now in the former Shimla district) and to have spread to Kullu, Mandi and Sirmaur. It was traditionally made by shepherds.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-siddu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "black-gram",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "poppy-seed",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "kangri-dham"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "kangri-dham",
+    "slug": "kangri-dham",
+    "name": "Kangri dham",
+    "local_names": [
+      {
+        "text": "कांगड़ी धाम",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kangri dham"
+      }
+    ],
+    "state_ids": [
+      "himachal-pradesh"
+    ],
+    "category": "festival",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": true
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A festive meal of the Kangra valley served in courses: rice, madra (chickpeas in yogurt), black lentils, a sweet-sour pumpkin khatta and sweet rice. No onion or garlic.",
+    "history": [
+      {
+        "id": "kd-1",
+        "text": "Dham is cooked by hereditary cooks called botis for temple festivals, weddings and religious ceremonies, and is strictly satvik, with no onion or garlic.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "lokpriya-kangri-dham",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "kd-2",
+        "text": "Our source gives no date for when the tradition began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "lokpriya-kangri-dham",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "black-gram",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "pumpkin",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "tamarind",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "siddu"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "kafuli",
+    "slug": "kafuli",
+    "name": "Kafuli",
+    "local_names": [
+      {
+        "text": "काफुली",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "kafuli"
+      }
+    ],
+    "state_ids": [
+      "uttarakhand"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A thick green curry of spinach and fenugreek leaves, thickened with rice flour and tempered with garlic and ginger in mustard oil. Garhwal also calls it dhapdi.",
+    "history": [
+      {
+        "id": "kf-1",
+        "text": "It is traditionally cooked in an iron pan over a wood fire and eaten with rice or finger-millet (mandua) roti.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "nvli-kafuli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "kf-2",
+        "text": "Our source makes no claim about when kafuli began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "nvli-kafuli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "spinach",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "bal-mithai"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "bal-mithai",
+    "slug": "bal-mithai",
+    "name": "Bal mithai",
+    "local_names": [
+      {
+        "text": "बाल मिठाई",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "bal mithai"
+      }
+    ],
+    "state_ids": [
+      "uttarakhand"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Dark, fudge-like cubes of roasted khoya coated with tiny white sugar balls. Almora's famous sweet, nicknamed 'chocolate' for its colour.",
+    "history": [
+      {
+        "id": "bm-1",
+        "text": "Joga Lal Sah, a sweet-maker in business in Almora's Lal Bazaar since 1865, is credited with creating bal mithai as it is known today; his descendants still run the shop.",
+        "era_label": "early 20th century",
+        "year_from": 1865,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-bal-mithai",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "bm-2",
+        "text": "A local story says soldiers from Kumaon carried bal mithai while serving in Burma in the Second World War.",
+        "era_label": "1940s",
+        "year_from": 1939,
+        "year_to": 1945,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-bal-mithai",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "poppy-seed",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [
+      "joga-lal-sah-almora",
+      "rautela-almora"
+    ],
+    "related_dish_ids": [
+      "kafuli"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "agra-petha",
+    "slug": "agra-petha",
+    "name": "Agra petha",
+    "local_names": [
+      {
+        "text": "आगरा पेठा",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "agra petha"
+      }
+    ],
+    "state_ids": [
+      "uttar-pradesh"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Translucent candied pieces of ash gourd, soaked in lime water to stay firm, then boiled in sugar syrup. Agra's counters sell it in many flavours.",
+    "history": [
+      {
+        "id": "ap-1",
+        "text": "A legend says petha was invented in Shah Jahan's kitchens to feed the Taj Mahal's workers. Our source calls this highly unlikely: petha is not in Shah Jahan's cookbook, the Nuskha-e-Shahjahani.",
+        "era_label": "17th century (legend)",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-petha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ap-2",
+        "text": "Its real date of invention is unknown. Similar sweets are recorded before the Mughals.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-petha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "ash-gourd",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "banarasi-tirangi-barfi"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "banarasi-tirangi-barfi",
+    "slug": "banarasi-tirangi-barfi",
+    "name": "Banarasi tirangi barfi",
+    "local_names": [
+      {
+        "text": "बनारसी तिरंगी बर्फी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "banarasi tirangi barfi"
+      }
+    ],
+    "state_ids": [
+      "uttar-pradesh"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Banaras Tirangi Barfi",
+      "year": "2024",
+      "registered_region": "Varanasi, Uttar Pradesh",
+      "source_id": "dtnext-up-gi"
+    },
+    "summary": "A tricoloured barfi in saffron, white and green, the colours of the Indian flag, made in Varanasi.",
+    "history": [
+      {
+        "id": "tb-1",
+        "text": "Press reports describe it as a sweet sold by supporters of the freedom struggle during the Quit India Movement.",
+        "era_label": "1940s",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "dtnext-up-gi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "tb-2",
+        "text": "Banaras Tirangi Barfi received a Geographical Indication in April 2024.",
+        "era_label": "2024",
+        "year_from": 2024,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "dtnext-up-gi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "agra-petha",
+      "bedmi-puri"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "bedmi-puri",
+    "slug": "bedmi-puri",
+    "name": "Bedmi puri",
+    "local_names": [
+      {
+        "text": "बेड़मी पूरी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "bedmi puri"
+      }
+    ],
+    "state_ids": [
+      "uttar-pradesh"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A thick, crisp fried bread whose dough and stuffing both use spiced urad dal, eaten hot with a potato and tomato curry. A North Indian breakfast.",
+    "history": [
+      {
+        "id": "bp-1",
+        "text": "Where bedmi began is argued over: Delhi or Uttar Pradesh.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "DISPUTED",
+        "citations": [
+          {
+            "source_id": "slurrp-bedmi",
+            "locator": ""
+          }
+        ],
+        "checked": false,
+        "sides": [
+          {
+            "party": "Delhi",
+            "text": "Many treat it as a classic Delhi Sunday breakfast.",
+            "citations": [
+              {
+                "source_id": "slurrp-bedmi",
+                "locator": ""
+              }
+            ]
+          },
+          {
+            "party": "Uttar Pradesh",
+            "text": "Others place it in UP; one writer suggests it grew out of Varanasi's stuffed kachori tradition and travelled to Delhi.",
+            "citations": [
+              {
+                "source_id": "slurrp-bedmi",
+                "locator": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "black-gram",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "potato",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "tomato",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "banarasi-tirangi-barfi"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "indori-poha-jalebi",
+    "slug": "indori-poha-jalebi",
+    "name": "Indori poha-jalebi",
+    "local_names": [
+      {
+        "text": "इंदौरी पोहा-जलेबी",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "indori poha-jalebi"
+      }
+    ],
+    "state_ids": [
+      "madhya-pradesh"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Steamed flattened rice with peanuts, mustard and curry leaves, topped with onion, Ratlami sev and jeeravan masala, eaten with hot jalebi. Indore's morning ritual.",
+    "history": [
+      {
+        "id": "ip-1",
+        "text": "Indori poha is believed to have been created in Indore after independence in 1947. No people are named.",
+        "era_label": "after 1947",
+        "year_from": 1947,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-indori-poha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ip-2",
+        "text": "The oldest known recipe for jalebi-like fritters is in a 10th-century Arabic cookbook by Ibn Sayyar al-Warraq.",
+        "era_label": "10th century",
+        "year_from": 900,
+        "year_to": 1000,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-jalebi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ip-3",
+        "text": "In India, a Jain work by Jinasura of about 1450 mentions jalebi at a merchant's dinner.",
+        "era_label": "c. 1450",
+        "year_from": 1450,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-jalebi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "peanut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dal-bafla"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "dal-bafla",
+    "slug": "dal-bafla",
+    "name": "Dal bafla",
+    "local_names": [
+      {
+        "text": "दाल बाफला",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "dal bafla"
+      }
+    ],
+    "state_ids": [
+      "madhya-pradesh"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Wheat dough balls boiled and then baked, softer than Rajasthani baati, dunked in ghee and eaten with spiced dal. A Malwa favourite.",
+    "history": [
+      {
+        "id": "df-1",
+        "text": "Our source calls dal bafla native to Malwa in Madhya Pradesh, while noting that parts of Rajasthan also claim it.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "DISPUTED",
+        "citations": [
+          {
+            "source_id": "wp-dal-baati",
+            "locator": ""
+          }
+        ],
+        "checked": false,
+        "sides": [
+          {
+            "party": "Malwa (Madhya Pradesh)",
+            "text": "Described as native to Malwa.",
+            "citations": [
+              {
+                "source_id": "wp-dal-baati",
+                "locator": ""
+              }
+            ]
+          },
+          {
+            "party": "Rajasthan",
+            "text": "Parts of Rajasthan claim it too.",
+            "citations": [
+              {
+                "source_id": "wp-dal-baati",
+                "locator": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "pigeon-pea",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dal-baati-churma",
+      "indori-poha-jalebi"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "mysore-pak",
+    "slug": "mysore-pak",
+    "name": "Mysore pak",
+    "local_names": [
+      {
+        "text": "ಮೈಸೂರು ಪಾಕ್",
+        "script": "Kannada",
+        "lang": "kn",
+        "translit": "mysuru pak"
+      }
+    ],
+    "state_ids": [
+      "karnataka"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A rich, porous sweet of gram flour cooked with sugar syrup and a generous amount of ghee, set and cut into blocks. Often scented with cardamom.",
+    "history": [
+      {
+        "id": "mk-1",
+        "text": "Tradition says a palace cook named Kakasura Madappa created it in Mysore Palace during the reign of Krishna Raja Wadiyar IV and named it after the city.",
+        "era_label": "early 20th century",
+        "year_from": 1900,
+        "year_to": 1940,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-mysore-pak",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dharwad-peda",
+      "bisi-bele-bath"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "bisi-bele-bath",
+    "slug": "bisi-bele-bath",
+    "name": "Bisi bele bath",
+    "local_names": [
+      {
+        "text": "ಬಿಸಿ ಬೇಳೆ ಬಾತ್",
+        "script": "Kannada",
+        "lang": "kn",
+        "translit": "bisi bele bath"
+      }
+    ],
+    "state_ids": [
+      "karnataka"
+    ],
+    "category": "rice",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Rice and toor dal cooked together with vegetables, tamarind and a special spice blend, finished with ghee. The name means 'hot lentil rice'.",
+    "history": [
+      {
+        "id": "bb-k1",
+        "text": "It is said to have begun in the Mysore Palace kitchens, where its recipe stayed close to secret among palace cooks for a long time. No dates are given.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-bisi-bele-bath",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "pigeon-pea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "tamarind",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "mysore-pak",
+      "ven-pongal"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "dharwad-peda",
+    "slug": "dharwad-peda",
+    "name": "Dharwad peda",
+    "local_names": [
+      {
+        "text": "ಧಾರವಾಡ ಪೇಡ",
+        "script": "Kannada",
+        "lang": "kn",
+        "translit": "dharwada peda"
+      }
+    ],
+    "state_ids": [
+      "karnataka"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Dharwad Pedha",
+      "year": "2008–09",
+      "registered_region": "Dharwad, Karnataka",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "A brown, crumbly milk sweet made by cooking milk with sugar for a long time until it caramelises, traditionally from the milk of Dharwadi buffaloes.",
+    "history": [
+      {
+        "id": "dp-1",
+        "text": "Family history says the Thakurs moved from Unnao in Uttar Pradesh after a plague in the late 18th century. Ram Ratan Singh Thakur began selling pedas, and his grandson Babu Singh Thakur made the Line Bazaar shop famous.",
+        "era_label": "late 18th century onwards",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-dharwad-pedha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "dp-2",
+        "text": "Dharwad Pedha is a registered Geographical Indication of Karnataka.",
+        "era_label": "2008–09",
+        "year_from": 2008,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-dharwad-pedha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [
+      "thakur-pedha-dharwad"
+    ],
+    "related_dish_ids": [
+      "mysore-pak",
+      "srivilliputtur-palkova"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "avial",
+    "slug": "avial",
+    "name": "Avial",
+    "local_names": [
+      {
+        "text": "അവിയൽ",
+        "script": "Malayalam",
+        "lang": "ml",
+        "translit": "aviyal"
+      }
+    ],
+    "state_ids": [
+      "kerala"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A thick mix of many vegetables, such as yam, plantain, ash gourd, drumstick and beans, cooked with ground coconut and curd and finished with coconut oil and curry leaves. A fixture of the sadhya feast.",
+    "history": [
+      {
+        "id": "av-1",
+        "text": "A legend credits Bhima of the Mahabharata: working as a cook in King Virata's kitchen, he chopped every vegetable he had, boiled them together and topped them with coconut.",
+        "era_label": "legend",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-aviyal",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "av-2",
+        "text": "Another story says a Travancore king, short of curry at a feast, had his cook use the leftover vegetables; the dish was then served at the sadhya.",
+        "era_label": "legend",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-aviyal",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "plantain",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ash-gourd",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "eggplant",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "tamarind",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "puttu-kadala",
+      "appam-veg-stew"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "puttu-kadala",
+    "slug": "puttu-kadala",
+    "name": "Puttu and kadala curry",
+    "local_names": [
+      {
+        "text": "പുട്ട് കടല",
+        "script": "Malayalam",
+        "lang": "ml",
+        "translit": "puttu kadala"
+      }
+    ],
+    "state_ids": [
+      "kerala"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Cylinders of steamed coarse rice flour layered with grated coconut, eaten with a spicy curry of black chickpeas. Kerala's classic breakfast.",
+    "history": [
+      {
+        "id": "pk-1",
+        "text": "In Tamil Nadu, a myth about a flood of the Vaigai river and the Pandya king Arimarthana involves puttu; it is re-enacted every year at the Avani Mula festival at the Meenakshi temple in Madurai.",
+        "era_label": "legend",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-puttu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "pk-2",
+        "text": "Our source gives no date for when puttu began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-puttu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "appam-veg-stew",
+      "avial"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "appam-veg-stew",
+    "slug": "appam-veg-stew",
+    "name": "Appam with vegetable stew",
+    "local_names": [
+      {
+        "text": "അപ്പം",
+        "script": "Malayalam",
+        "lang": "ml",
+        "translit": "appam"
+      }
+    ],
+    "state_ids": [
+      "kerala"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false,
+      "nonveg_variants_note": "Often served with egg, chicken or mutton stew instead."
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Bowl-shaped pancakes of fermented rice batter and coconut milk, soft in the middle and lacy at the edges, served with a mild coconut-milk vegetable stew.",
+    "history": [
+      {
+        "id": "am-1",
+        "text": "Food historian K. T. Achaya, as cited by journalist Vir Sanghvi, says Tamil Sangam poems describe appams sold with modakam in the street markets of Madurai.",
+        "era_label": "Sangam period",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-appam",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "am-2",
+        "text": "A 2018 study of Chola-era temple inscriptions reports an early appam recipe carved on the walls of the Srirangam temple as an offering.",
+        "era_label": "medieval",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-appam",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "am-3",
+        "text": "The name may come from the Sanskrit apupa, a kind of fried sweet.",
+        "era_label": "name",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-appam",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "potato",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "idli",
+      "puttu-kadala"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "idli",
+    "slug": "idli",
+    "name": "Idli",
+    "local_names": [
+      {
+        "text": "இட்லி",
+        "script": "Tamil",
+        "lang": "ta",
+        "translit": "itli"
+      }
+    ],
+    "state_ids": [
+      "tamil-nadu",
+      "karnataka"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Soft, steamed cakes of fermented rice and black-gram batter, eaten with sambar and coconut chutney across South India.",
+    "history": [
+      {
+        "id": "id-1",
+        "text": "The Kannada work Vaddaradhane (920 CE) mentions iddalige, made from black gram alone, with no rice.",
+        "era_label": "920 CE",
+        "year_from": 920,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-idli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "id-2",
+        "text": "The Sanskrit Manasollasa (1130 CE) describes iddarika. These early recipes lack rice, long fermentation and steaming; recipes like today's idli appear only after about 1250 CE.",
+        "era_label": "1130 CE",
+        "year_from": 1130,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-idli",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "id-3",
+        "text": "Where the steamed, fermented idli came from is disputed.",
+        "era_label": "800–1200 CE?",
+        "year_from": null,
+        "year_to": null,
+        "label": "DISPUTED",
+        "citations": [
+          {
+            "source_id": "wp-idli",
+            "locator": ""
+          }
+        ],
+        "checked": false,
+        "sides": [
+          {
+            "party": "Indonesian origin",
+            "text": "K. T. Achaya speculated that cooks in Indianised kingdoms of Indonesia invented the steamed idli and brought it to India between 800 and 1200 CE, citing a dish called 'kedli'. Others could not find a recipe by that name.",
+            "citations": [
+              {
+                "source_id": "wp-idli",
+                "locator": ""
+              }
+            ]
+          },
+          {
+            "party": "Indian development",
+            "text": "Colleen Taylor Sen argues fermentation was discovered independently in India, and archaeologist Dorian Fuller says steaming was used in Neolithic South India around 2000 BCE.",
+            "citations": [
+              {
+                "source_id": "wp-idli",
+                "locator": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "black-gram",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "dhokla",
+      "appam-veg-stew",
+      "ven-pongal"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "ven-pongal",
+    "slug": "ven-pongal",
+    "name": "Ven pongal",
+    "local_names": [
+      {
+        "text": "வெண் பொங்கல்",
+        "script": "Tamil",
+        "lang": "ta",
+        "translit": "ven pongal"
+      }
+    ],
+    "state_ids": [
+      "tamil-nadu"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A soft, savoury porridge of rice and moong dal cooked with ghee, black pepper, cumin, ginger and curry leaves, often topped with fried cashews. 'Ven' means white.",
+    "history": [
+      {
+        "id": "vp-1",
+        "text": "Our source gives no history for ven pongal; it only explains that 'venn' means white, citing Winslow's Tamil dictionary of 1862.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-pongal",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "green-gram",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "black-pepper",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cashew",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "idli",
+      "bisi-bele-bath"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "The cashew garnish is optional; it would date the dish to after the 1560s."
+  },
+  {
+    "id": "srivilliputtur-palkova",
+    "slug": "srivilliputtur-palkova",
+    "name": "Srivilliputtur palkova",
+    "local_names": [
+      {
+        "text": "ஸ்ரீவில்லிபுத்தூர் பால்கோவா",
+        "script": "Tamil",
+        "lang": "ta",
+        "translit": "srivilliputtur palkova"
+      }
+    ],
+    "state_ids": [
+      "tamil-nadu"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Srivilliputtur Palkova",
+      "year": "2019–20",
+      "registered_region": "Srivilliputhur, Tamil Nadu",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "A creamy, fudge-like sweet of rich milk slowly reduced with sugar, made in the temple town of Srivilliputhur from local high-fat milk.",
+    "history": [
+      {
+        "id": "sp-1",
+        "text": "A press report traces the town's palkova to about 1921, when Dev Singh opened Lala Sweets near the Andal temple, inspired by the temple's milk prasadam.",
+        "era_label": "c. 1921",
+        "year_from": 1921,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "inkl-palkova",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "sp-2",
+        "text": "Srivilliputtur Palkova is a registered Geographical Indication of Tamil Nadu; the local milk producers' cooperative led the application.",
+        "era_label": "2019–20",
+        "year_from": 2019,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          },
+          {
+            "source_id": "inkl-palkova",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [
+      "venkateswara-vilas"
+    ],
+    "related_dish_ids": [
+      "dharwad-peda",
+      "kovilpatti-kadalai-mittai"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "kovilpatti-kadalai-mittai",
+    "slug": "kovilpatti-kadalai-mittai",
+    "name": "Kovilpatti kadalai mittai",
+    "local_names": [
+      {
+        "text": "கோவில்பட்டி கடலை மிட்டாய்",
+        "script": "Tamil",
+        "lang": "ta",
+        "translit": "kovilpatti kadalai mittai"
+      }
+    ],
+    "state_ids": [
+      "tamil-nadu"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Kovilpatti Kadalai Mittai",
+      "year": "2019–20",
+      "registered_region": "Kovilpatti, Tamil Nadu",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "A crunchy peanut brittle bound with jaggery syrup, made in Kovilpatti and cut into bars.",
+    "history": [
+      {
+        "id": "km-1",
+        "text": "It received a Geographical Indication in April 2020 after a five-year wait.",
+        "era_label": "2020",
+        "year_from": 2020,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "dtnext-kovilpatti",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "km-2",
+        "text": "The makers' application says its taste comes from local groundnuts, chosen jaggery and water from the Thamirabarani river, cooked over firewood.",
+        "era_label": "claim",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "dtnext-kovilpatti",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "km-3",
+        "text": "Our sources give no founding date or founder.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "dtnext-kovilpatti",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "peanut",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "srivilliputtur-palkova"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "pesarattu",
+    "slug": "pesarattu",
+    "name": "Pesarattu",
+    "local_names": [
+      {
+        "text": "పెసరట్టు",
+        "script": "Telugu",
+        "lang": "te",
+        "translit": "pesarattu"
+      }
+    ],
+    "state_ids": [
+      "andhra-pradesh"
+    ],
+    "category": "breakfast",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A thin, crisp crepe of ground whole green gram with green chilli and ginger, often stuffed with upma. Eaten with ginger chutney.",
+    "history": [
+      {
+        "id": "pe-1",
+        "text": "Pesarattu comes from coastal Andhra Pradesh; its Telugu name means 'green gram pancake'.",
+        "era_label": "region",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-pesarattu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "pe-2",
+        "text": "Our source gives no date for when it began.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-pesarattu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "green-gram",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "ginger",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chilli",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "idli",
+      "bandar-laddu"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "bandar-laddu",
+    "slug": "bandar-laddu",
+    "name": "Bandar laddu",
+    "local_names": [
+      {
+        "text": "బందరు లడ్డు",
+        "script": "Telugu",
+        "lang": "te",
+        "translit": "bandaru laddu"
+      }
+    ],
+    "state_ids": [
+      "andhra-pradesh"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Bandar Laddu",
+      "year": "2016–17",
+      "registered_region": "Machilipatnam, Andhra Pradesh",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "A soft, crumbly laddu of gram flour, jaggery syrup and ghee from Machilipatnam (Bandar), also called thokkudu laddu.",
+    "history": [
+      {
+        "id": "bl-1",
+        "text": "The GI Registry registered Bandar Laddu as a foodstuff on 3 May 2017.",
+        "era_label": "3 May 2017",
+        "year_from": 2017,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-bandar-laddu",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "bl-2",
+        "text": "Our sources give no origin story or early date.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-bandar-laddu",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "pesarattu",
+      "mysore-pak"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "rasagola",
+    "slug": "rasagola",
+    "name": "Rasagola / rosogolla",
+    "local_names": [
+      {
+        "text": "ରସଗୋଲା",
+        "script": "Odia",
+        "lang": "or",
+        "translit": "rasagola"
+      },
+      {
+        "text": "রসগোল্লা",
+        "script": "Bengali",
+        "lang": "bn",
+        "translit": "rosogolla"
+      }
+    ],
+    "state_ids": [
+      "odisha",
+      "west-bengal"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Odisha Rasagola (2019–20) and Banglar Rasogolla (2017–18)",
+      "year": "2017–2019",
+      "registered_region": "Odisha and West Bengal",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "Balls of fresh chhena cheese simmered in light sugar syrup until spongy. Both Odisha and West Bengal claim it, and each holds its own GI for its version.",
+    "history": [
+      {
+        "id": "rg-1",
+        "text": "Where rasagola began is disputed between Odisha and West Bengal.",
+        "era_label": "12th–19th century",
+        "year_from": null,
+        "year_to": null,
+        "label": "DISPUTED",
+        "citations": [
+          {
+            "source_id": "wp-rasgulla",
+            "locator": ""
+          }
+        ],
+        "checked": false,
+        "sides": [
+          {
+            "party": "Odisha",
+            "text": "Odia accounts trace it to Puri: Lakshmi is offered rasagola in the Niladri Bije ritual of the Jagannath temple, and Odia historians date this offering to the 12th century. A 15th-century Odia Ramayana by Balaram Das is cited for the word 'rasagola'.",
+            "citations": [
+              {
+                "source_id": "wp-rasgulla",
+                "locator": ""
+              }
+            ]
+          },
+          {
+            "party": "West Bengal",
+            "text": "Bengal credits the spongy version to Kolkata confectioner Nobin Chandra Das in 1868. Others name Braja Moira (1866) or Haradhan Moira of Phulia.",
+            "citations": [
+              {
+                "source_id": "wp-rasgulla",
+                "locator": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rg-2",
+        "text": "Historians K. T. Achaya and Chitra Banerji found no reference to cheese, including chhena, in India before the 17th century, which makes a 12th-century chhena offering hard to accept.",
+        "era_label": "17th century",
+        "year_from": 1600,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-rasgulla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "rg-3",
+        "text": "West Bengal received a GI for 'Banglar Rasogolla' on 14 November 2017, and Odisha one for 'Odisha Rasagola' on 29 July 2019. The tags cover each state's version, not the question of origin.",
+        "era_label": "2017 and 2019",
+        "year_from": 2017,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-rasgulla",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chhena",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "chhena-poda",
+      "mishti-doi"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "chhena-poda",
+    "slug": "chhena-poda",
+    "name": "Chhena poda",
+    "local_names": [
+      {
+        "text": "ଛେନାପୋଡ଼",
+        "script": "Odia",
+        "lang": "or",
+        "translit": "chhenapoda"
+      }
+    ],
+    "state_ids": [
+      "odisha"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Fresh chhena kneaded with sugar and semolina, then baked for hours until the outside caramelises. The name means 'burnt cheese' in Odia.",
+    "history": [
+      {
+        "id": "cp-1",
+        "text": "It is credited to Sudarsan Sahu, who experimented with leftover cheese at his hotel in Dashapalla, Odisha, after 1947.",
+        "era_label": "after 1947",
+        "year_from": 1947,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-chhena-poda",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "cp-2",
+        "text": "Chhenapoda Dibasa, a day celebrating the sweet, has been observed since 11 April 2022, his birth anniversary.",
+        "era_label": "2022",
+        "year_from": 2022,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-chhena-poda",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "chhena",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "cashew",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "cardamom",
+        "role": "optional"
+      }
+    ],
+    "festivals": [
+      "Durga Puja"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "rasagola",
+      "dalma"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "dalma",
+    "slug": "dalma",
+    "name": "Dalma",
+    "local_names": [
+      {
+        "text": "ଡାଲମା",
+        "script": "Odia",
+        "lang": "or",
+        "translit": "dalma"
+      }
+    ],
+    "state_ids": [
+      "odisha"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Toor dal cooked with chopped vegetables such as raw papaya, plantain, aubergine and pumpkin, and finished with panch phutana, a five-seed tempering.",
+    "history": [
+      {
+        "id": "dm-1",
+        "text": "Our source describes dalma but gives no history. Links often made between dalma and the Jagannath temple kitchen still need a source.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-odisha-cuisine",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "pigeon-pea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "turmeric",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "papaya",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "plantain",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "eggplant",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "pumpkin",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "chhena-poda"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "Vegetables vary; papaya and pumpkin are optional and do not set the age limit."
+  },
+  {
+    "id": "mishti-doi",
+    "slug": "mishti-doi",
+    "name": "Mishti doi",
+    "local_names": [
+      {
+        "text": "মিষ্টি দই",
+        "script": "Bengali",
+        "lang": "bn",
+        "translit": "mishti doi"
+      }
+    ],
+    "state_ids": [
+      "west-bengal"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Thickened milk sweetened with sugar or date-palm jaggery and set overnight into a caramel-coloured yogurt, traditionally in porous earthen pots.",
+    "history": [
+      {
+        "id": "md-1",
+        "text": "It is traditionally set in earthenware, whose porous walls let water escape, thickening the yogurt.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-mishti-doi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "md-2",
+        "text": "Our source gives no date for its origin; it names Nabadwip, Kolkata and Bogra (Bangladesh) as famous centres.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-mishti-doi",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "rasagola",
+      "burdwan-mihidana"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "burdwan-mihidana",
+    "slug": "burdwan-mihidana",
+    "name": "Burdwan mihidana",
+    "local_names": [
+      {
+        "text": "মিহিদানা",
+        "script": "Bengali",
+        "lang": "bn",
+        "translit": "mihidana"
+      }
+    ],
+    "state_ids": [
+      "west-bengal"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Bardhaman Mihidana",
+      "year": "2016–17",
+      "registered_region": "Bardhaman, West Bengal",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "Tiny, saffron-coloured fried grains of fine rice flour and a little gram flour, soaked in syrup. A finer cousin of boondi.",
+    "history": [
+      {
+        "id": "mh-1",
+        "text": "Two accounts disagree on who created mihidana and when.",
+        "era_label": "19th–20th century",
+        "year_from": null,
+        "year_to": null,
+        "label": "DISPUTED",
+        "citations": [
+          {
+            "source_id": "wp-mihidana",
+            "locator": ""
+          }
+        ],
+        "checked": false,
+        "sides": [
+          {
+            "party": "For Lord Curzon, 1904",
+            "text": "Sweet-maker Vairabchandra Nag is credited with creating it for the lunch given to Lord Curzon when he visited Bardhaman on 19 August 1904.",
+            "citations": [
+              {
+                "source_id": "wp-mihidana",
+                "locator": ""
+              }
+            ]
+          },
+          {
+            "party": "Earlier, under Maharaja Mahatabchand",
+            "text": "Another account credits Khettranath Nag with inventing it earlier, during the reign of Maharaja Mahatabchand.",
+            "citations": [
+              {
+                "source_id": "wp-mihidana",
+                "locator": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mh-2",
+        "text": "Bardhaman Mihidana became a Geographical Indication of West Bengal on 29 April 2017.",
+        "era_label": "29 Apr 2017",
+        "year_from": 2017,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-mihidana",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "mishti-doi",
+      "rasagola"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "shukto",
+    "slug": "shukto",
+    "name": "Shukto",
+    "local_names": [
+      {
+        "text": "শুক্তো",
+        "script": "Bengali",
+        "lang": "bn",
+        "translit": "shukto"
+      }
+    ],
+    "state_ids": [
+      "west-bengal"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A gently bitter-sweet medley of vegetables such as bitter gourd, potato, sweet potato, raw banana and aubergine in a light milky sauce, eaten first in a Bengali meal.",
+    "history": [
+      {
+        "id": "sk-1",
+        "text": "Shukto is mentioned in medieval Bengali Mangal-Kavya poems and in biographies of Sri Chaitanya.",
+        "era_label": "medieval",
+        "year_from": 1500,
+        "year_to": 1600,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-shukto",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "sk-2",
+        "text": "Beginning a meal with bitter foods is an old practice promoted by Ayurvedic writers.",
+        "era_label": "ancient",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-shukto",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sweet-potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "eggplant",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "plantain",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "optional"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "mishti-doi"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "Today's shukto uses potato and sweet potato, so it can't be the same dish as the medieval one."
+  },
+  {
+    "id": "litti-chokha",
+    "slug": "litti-chokha",
+    "name": "Litti chokha",
+    "local_names": [
+      {
+        "text": "लिट्टी चोखा",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "litti chokha"
+      }
+    ],
+    "state_ids": [
+      "bihar"
+    ],
+    "category": "main",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": false,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Wheat dough balls stuffed with spiced sattu (roasted gram flour), roasted over a fire, eaten with chokha, a smoky mash of aubergine, tomato and potato with mustard oil.",
+    "history": [
+      {
+        "id": "lc-1",
+        "text": "Litti is said to have been a staple of the armies of Magadha because it keeps well. Our source marks this claim as needing a citation.",
+        "era_label": "ancient (claimed)",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-litti-chokha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "lc-2",
+        "text": "It is tied to religious events such as the Panchkosi yatra and the Lota-Bhanta mela around Buxar.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-litti-chokha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "eggplant",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "tomato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "potato",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "mustard",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "garlic",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "silao-khaja",
+      "dal-baati-churma"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null,
+    "current_form_note": "Chokha with tomato and potato can't be older than those crops in India."
+  },
+  {
+    "id": "silao-khaja",
+    "slug": "silao-khaja",
+    "name": "Silao khaja",
+    "local_names": [
+      {
+        "text": "सिलाव खाजा",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "silav khaja"
+      }
+    ],
+    "state_ids": [
+      "bihar"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": true,
+      "registered_name": "Silao Khaja",
+      "year": "2018–19",
+      "registered_region": "Silao, Nalanda, Bihar",
+      "source_id": "wp-gi-list"
+    },
+    "summary": "A flaky, many-layered pastry of wheat flour and khoya, deep-fried and soaked in syrup, from Silao near Nalanda. Often compared to baklava.",
+    "history": [
+      {
+        "id": "sk-b1",
+        "text": "A folk tale says the Buddha was offered khaja at Silao while travelling from Rajgir to Nalanda.",
+        "era_label": "folk tale",
+        "year_from": null,
+        "year_to": null,
+        "label": "TRADITIONAL",
+        "citations": [
+          {
+            "source_id": "wp-khaja",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "sk-b2",
+        "text": "Archaeologist J. D. Beglar described the Silao sweet during his survey there in 1872–73 and linked it to King Vikramaditya.",
+        "era_label": "1872–73",
+        "year_from": 1872,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-khaja",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "sk-b3",
+        "text": "The GI Registry granted Silao Khaja a Geographical Indication in December 2018.",
+        "era_label": "Dec 2018",
+        "year_from": 2018,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-khaja",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "wheat",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [
+      "Chhath"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "litti-chokha",
+      "ghewar"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "dhuska",
+    "slug": "dhuska",
+    "name": "Dhuska",
+    "local_names": [
+      {
+        "text": "धुस्का",
+        "script": "Devanagari",
+        "lang": "hi",
+        "translit": "dhuska"
+      }
+    ],
+    "state_ids": [
+      "jharkhand"
+    ],
+    "category": "snack",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A deep-fried bread of ground rice and chana dal batter, puffed and golden, sold at market stalls across Jharkhand and eaten with chutney or curry.",
+    "history": [
+      {
+        "id": "du-1",
+        "text": "Our source makes no claim about its origin or age.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-dhooska",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "chickpea",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "litti-chokha"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "assam-pitha",
+    "slug": "assam-pitha",
+    "name": "Pitha (Assam)",
+    "local_names": [
+      {
+        "text": "পিঠা",
+        "script": "Bengali-Assamese",
+        "lang": "as",
+        "translit": "pitha"
+      }
+    ],
+    "state_ids": [
+      "assam"
+    ],
+    "category": "festival",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": true,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "Rice-flour cakes made for Bihu: til pitha is rolled around roasted sesame and jaggery; ghila pitha is fried with jaggery. Often made from sticky bora rice.",
+    "history": [
+      {
+        "id": "pi-1",
+        "text": "In Assam, pitha is a special class of rice dishes made mainly for occasions such as Bihu.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-pitha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "pi-2",
+        "text": "Our source gives no origin story for Assamese pitha. A legend about the Buddha in the same article concerns an Odia pitha, not Assam's.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-pitha",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sesame",
+        "role": "optional"
+      },
+      {
+        "ingredient_id": "coconut",
+        "role": "optional"
+      }
+    ],
+    "festivals": [
+      "Bihu"
+    ],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "chak-hao-kheer"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  },
+  {
+    "id": "chak-hao-kheer",
+    "slug": "chak-hao-kheer",
+    "name": "Chak-hao kheer",
+    "local_names": [],
+    "state_ids": [
+      "manipur"
+    ],
+    "category": "sweet",
+    "diet": {
+      "pure_veg": true,
+      "contains_egg": false,
+      "vegan": false,
+      "jain": true,
+      "sattvik_vrat": false
+    },
+    "gi": {
+      "has_tag": false
+    },
+    "summary": "A purple-black rice pudding made by slow-cooking Manipur's aromatic black rice, chak-hao, in milk with sugar.",
+    "history": [
+      {
+        "id": "ch-1",
+        "text": "Chak-hao black rice (not the kheer itself) received a Geographical Indication on 20 April 2020, after a producers' group from Imphal applied in 2017.",
+        "era_label": "20 Apr 2020",
+        "year_from": 2020,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-chak-hao",
+            "locator": ""
+          },
+          {
+            "source_id": "wp-gi-list",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ch-2",
+        "text": "The rice is used for ceremonies and special occasions.",
+        "era_label": "practice",
+        "year_from": null,
+        "year_to": null,
+        "label": "DOCUMENTED",
+        "citations": [
+          {
+            "source_id": "wp-chak-hao",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      },
+      {
+        "id": "ch-3",
+        "text": "Our source gives no date for chak-hao kheer.",
+        "era_label": "undated",
+        "year_from": null,
+        "year_to": null,
+        "label": "UNKNOWN",
+        "citations": [
+          {
+            "source_id": "wp-chak-hao",
+            "locator": ""
+          }
+        ],
+        "checked": false
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredient_id": "rice",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "dairy",
+        "role": "defining"
+      },
+      {
+        "ingredient_id": "sugarcane",
+        "role": "defining"
+      }
+    ],
+    "festivals": [],
+    "images": [],
+    "place_ids": [],
+    "related_dish_ids": [
+      "assam-pitha"
+    ],
+    "status": "published",
+    "last_reviewed_date": null,
+    "reviewed_by": null
+  }
+]

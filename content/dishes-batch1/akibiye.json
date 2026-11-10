@@ -1,0 +1,35 @@
+{
+  "slug": "akibiye",
+  "name": "Akibiye",
+  "local_names": [],
+  "state_ids": [
+    "nagaland"
+  ],
+  "category": "main",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Thick gravy of taro and bamboo shoot, mainly made by the Sümi Naga.",
+  "ingredients": [
+    "taro",
+    "bamboo shoot"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-naga-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Naga_cuisine",
+      "title": "Naga cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

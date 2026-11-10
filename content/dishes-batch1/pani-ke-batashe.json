@@ -1,0 +1,42 @@
+{
+  "slug": "pani-ke-batashe",
+  "name": "Pani ke batashe",
+  "local_names": [
+    {
+      "text": "पानी के बताशे",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "uttar-pradesh"
+  ],
+  "category": "snack",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": false
+  },
+  "summary": "Crisp hollow puris filled with potato or chickpea and dipped in spiced tangy water. Called golgappa or batashe in UP.",
+  "ingredients": [
+    "semolina",
+    "potato",
+    "tamarind",
+    "mint"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-awadhi-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Awadhi_cuisine",
+      "title": "Awadhi cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "kairi-ki-launji",
+  "name": "Kairi ki launji",
+  "local_names": [
+    {
+      "text": "कैरी की लौंजी",
+      "script": "Devanagari"
+    }
+  ],
+  "state_ids": [
+    "rajasthan"
+  ],
+  "category": "side",
+  "diet": {
+    "pure_veg": true,
+    "vegan": true,
+    "jain": true
+  },
+  "summary": "Sweet, sour and spicy relish of raw mango cooked with jaggery and fennel.",
+  "ingredients": [
+    "raw mango",
+    "jaggery",
+    "fennel",
+    "red chilli"
+  ],
+  "origin": {
+    "label": "UNKNOWN",
+    "text": "Origin not recorded in the sources checked so far.",
+    "citations": []
+  },
+  "sources": [
+    {
+      "source_id": "wp-rajasthani-cuisine",
+      "url": "https://en.wikipedia.org/wiki/Rajasthani_cuisine",
+      "title": "Rajasthani cuisine"
+    }
+  ],
+  "needs_source": false,
+  "checked": false,
+  "batch": 1,
+  "status": "draft"
+}
