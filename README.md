@@ -6,7 +6,7 @@ and catch the latest in the Daily Tadka.
 > Just for fun. The Bhukkad Republic is not a real country, government, political party or official body. The passport is a
 > profile card, not a travel document. We respect every nation's sovereignty and food heritage.
 
-Read **`CONCEPT.md`** first (pitch, words we use, what each page is for, the "just for fun" rules) and **`CLAUDE.md`** (content rules).
+Read **`MEM.md`** (how we built it, what is done, what is next), **`CONCEPT.md`** (pitch, words we use, what each page is for, the "just for fun" rules) and **`CLAUDE.md`** (content rules).
 
 ## What's inside
 - **Dish files** (`#/dishes`): 298 dishes. Each file has its history (every fact carries a stamp and a source), styles/recipes,
