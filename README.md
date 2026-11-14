@@ -1,6 +1,6 @@
 # Bhukkad Republic
 
-**A fun, imaginary food country.** Get your passport, post what you cooked or ate, read how your favourite dishes began,
+**A fun, imaginary food nation.** Get your passport, post what you cooked or ate, read how your favourite dishes began,
 and catch the latest in the Daily Tadka.
 
 > Just for fun. The Bhukkad Republic is not a real country, government, political party or official body. The passport is a
